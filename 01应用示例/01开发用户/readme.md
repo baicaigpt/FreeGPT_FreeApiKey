@@ -3,7 +3,7 @@
 >一定要替换为白菜的api base和api key，差一个都是不对的。
 >
 ```js
-1、使用白菜转发API_KEY: baicai_xxxxxxxx 替换官方 API_Key: sk-xxxxxxxx
+1、使用白菜转发API_KEY: baicai-xxxxxxxx 替换官方 API_Key: sk-xxxxxxxx
 2、使用白菜转发API_BASE: api.baicaigpt.com 替换官方域名：api.openai.com
 ```
 
