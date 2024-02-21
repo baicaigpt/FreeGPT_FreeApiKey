@@ -4,7 +4,7 @@
 > 
 > [注册会员 领取免费API_KEY](https://shop.baicaigpt.com/#/account),内测期间，每天限30名免费会员注册
 > 
-> ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/2053d0fb-9d6a-499c-af38-7cf898444ca0)
+> [![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/2053d0fb-9d6a-499c-af38-7cf898444ca0)](https://shop.baicaigpt.com/)
 > 
 > [帮助文档](https://doc.baicaigpt.com/)
 > 
