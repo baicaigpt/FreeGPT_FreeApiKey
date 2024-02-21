@@ -1,6 +1,6 @@
 # 白菜GPT | 免费API中转KEY 
 # 国内直连 | 无需代理 
-# 支持GPT3.5 | 4.0
+# 支持GPT3.5（已支持） | 4.0(待开放)
 > 白菜GPT旨在帮助国内GPT应用学习相关从业者，提供便捷、低成本、长期稳定的GPT中转服务，免费提供中转API_KEY，从而降低各位学习成本，提高GPT学习应用效率。
 > 
 > [注册会员 领取免费API_KEY](https://shop.baicaigpt.com/#/account),内测期间，每天限30名免费会员注册
@@ -37,4 +37,5 @@
 
 ## 第三步 应用"API_KEY"
 > 可持续关注本项目，API_KEY应用示例，将在示例文档中不断更新，已帮助大家第一时间使用白菜GPT提供的中转API_KEY
+> 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/4d2ebbdb-75f1-4eb2-a76a-789c5774a56e)
