@@ -1,1 +1,1 @@
-# FreeGPT_APIKEY
+# FreeGPT_FreeAPIKEY
