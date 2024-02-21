@@ -1,8 +1,6 @@
 # 白菜GPT | 免费API中转KEY | 国内直连 | 无需代理 | 支持GPT3.5 4.0
 > [注册会员 领取免费API_KEY](https://shop.baicaigpt.com/#/account),内测期间，每天限30名免费会员注册
 > 
-> ![banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/59e92ff3-88ad-41b9-be59-ab1787253396)
-> 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/2053d0fb-9d6a-499c-af38-7cf898444ca0)
 > 
 > [帮助文档](https://doc.baicaigpt.com/)
