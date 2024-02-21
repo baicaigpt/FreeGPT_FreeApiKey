@@ -51,7 +51,7 @@
 # 4 Documentation
 > To check out the documentation, visit
 > 
-> -[简体中文](https://doc.baicaigpt.com/)
+> - [简体中文](https://doc.baicaigpt.com/)
 > 
 # 4 Changelog
 > Please check the [Releases](https://github.com/baicaigpt/FreeGPT_FreeApiKey/releases) page of this project.
