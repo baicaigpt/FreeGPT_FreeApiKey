@@ -48,6 +48,10 @@
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/4d2ebbdb-75f1-4eb2-a76a-789c5774a56e)
 >
+> 请求结束，查看消费明细（可选）
+> 
+> ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/37cdf619-4a13-4f06-b770-dda511ec956c)
+
 # 4 Documentation
 > To check out the documentation, visit
 > 
