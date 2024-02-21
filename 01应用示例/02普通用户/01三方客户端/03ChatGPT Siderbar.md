@@ -5,4 +5,5 @@
 > 
 > 安装好插件后进入设置页面，如图所示修改设置，并将url设置为https://api.baicaigpt.com 即可
 
-![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/422455/image-preview)
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/eb361252-7273-489c-b8ec-34489b5bcae5)
+
