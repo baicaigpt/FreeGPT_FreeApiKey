@@ -40,6 +40,6 @@
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/4d2ebbdb-75f1-4eb2-a76a-789c5774a56e)
 >
-> ## 喜欢这个项目，就请点个Stars吧🎉.
+> ## 喜欢这个项目，就请点个Star ⭐  🎉.
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e)
 
