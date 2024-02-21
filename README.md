@@ -1,17 +1,19 @@
-# 白菜GPT | 免费API中转KEY | 国内直连 | 无需代理 | 支持GPT3.5 4.0
+# 白菜GPT | 免费API中转KEY | 国内直连 
+# 无需代理 | 支持GPT3.5 4.0
+> 白菜GPT旨在帮助国内GPT应用学习相关从业者，提供便捷、低成本、长期稳定的GPT中转服务，免费提供中转API_KEY，从而降低各位学习成本，提高GPT学习应用效率。
+> 
 > [注册会员 领取免费API_KEY](https://shop.baicaigpt.com/#/account),内测期间，每天限30名免费会员注册
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/2053d0fb-9d6a-499c-af38-7cf898444ca0)
 > 
 > [帮助文档](https://doc.baicaigpt.com/)
 > 
-> 白菜GPT旨在帮助国内GPT应用学习相关从业者，提供便捷、低成本、长期稳定的GPT中转服务，免费提供中转API_KEY，从而降低各位学习成本，提高GPT学习应用效率。
 # 免费会员
-> ![good_free](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/941e7e77-696c-4467-850f-8030b6943715)
+> [![good_free](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/941e7e77-696c-4467-850f-8030b6943715)](https://shop.baicaigpt.com/#/account)
 > 
 > 满足基本学习需求，适合低频使用场景。
 # 付费会员
-> ![good_paid](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/d4a857a0-bb93-44df-9ff2-28385ab70eab)
+> [![good_paid](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/d4a857a0-bb93-44df-9ff2-28385ab70eab)](https://shop.baicaigpt.com/#/account)
 >
 > 满足专业工作需求,适合高频使用场景
 >
