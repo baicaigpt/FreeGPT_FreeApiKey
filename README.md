@@ -39,3 +39,7 @@
 > 可持续关注本项目，API_KEY应用示例，将在示例文档中不断更新，已帮助大家第一时间使用白菜GPT提供的中转API_KEY
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/4d2ebbdb-75f1-4eb2-a76a-789c5774a56e)
+>
+> ## 喜欢这个项目，就请点个Stars吧🎉.
+> ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e)
+
