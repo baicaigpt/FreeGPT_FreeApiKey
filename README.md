@@ -7,7 +7,7 @@
 > 
 > [![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/2053d0fb-9d6a-499c-af38-7cf898444ca0)](https://shop.baicaigpt.com/)
 > 
-> [帮助文档](https://doc.baicaigpt.com/)
+> 浏览更多[帮助文档](https://doc.baicaigpt.com/)
 > 
 # 2 产品服务
 白菜GPT以会员服务的形式，提供免费及付费两种会员产品
