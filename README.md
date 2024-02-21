@@ -37,7 +37,7 @@
 > [会员中心]
 
 ### 第二步 查看“我的KEY”
-> 免费API_KEY长期提供，付费API_KEY结合用户访问弹性定价，力争帮助用户已最小的成本获得最好的体验。
+> 免费API_KEY长期提供，付费API_KEY结合用户访问量弹性定价，力争帮助用户以最小的成本获得最好的体验。
 > 
 > [![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/e09526d9-35bd-40ba-86a7-074d7bbabd11)](https://shop.baicaigpt.com/#/key)
 >
