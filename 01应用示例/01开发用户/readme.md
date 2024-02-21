@@ -21,4 +21,4 @@ curl https://api.baicaigpt.com/v1/chat/completions \
 ```
 正常运行，返回如下
 
-![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/422446/image-preview)
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/dc7a73dd-fae0-4654-8911-827ae1fabfe2)
