@@ -52,14 +52,14 @@
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/37cdf619-4a13-4f06-b770-dda511ec956c)
 
-# 4 Documentation
+# 4 帮助文档
 > To check out the documentation, visit
 > 
 > - [简体中文](https://doc.baicaigpt.com/)
 > 
-# 4 Changelog
+# 5 更新日志
 > Please check the [Releases](https://github.com/baicaigpt/FreeGPT_FreeApiKey/releases) page of this project.
 > 
-> ## 喜欢这个项目，就请点个Star吧 ⭐  🎉.
-> ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e)
+# 喜欢这个项目，就请点个Star吧 ⭐  🎉.
+ ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e)
 
