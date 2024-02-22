@@ -9,7 +9,7 @@
 **应用须知**
 
 ```js
-1、使用白菜转发API_KEY: baicai_xxxxxxxx 替换官方 API_Key: sk-xxxxxxxx
+1、使用白菜转发API_KEY: baicai_xxxxxxxx 替换官方 API_KEY: sk-xxxxxxxx
 2、使用白菜转发API_BASE: api.baicaigpt.com 替换官方域名：api.openai.com
 兼容OpenAI官方库，大部分ChatGPT三方客户端或插件可用。
 ```
