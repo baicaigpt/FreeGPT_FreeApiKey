@@ -80,7 +80,6 @@
 >**尊重隐私，获取隐私保护**：白菜GPT高度重视隐私，致力于保护其用户的[隐私](https://doc.baicaigpt.com/doc-3711273)。不会以任何方式收集、记录或存储用户输入的任何文本或由 OpenAI 服务器返回的任何文本。不对对话内容进行留存处理。
 
 
-:::
 - 白菜GPT付费API_KEY目前为Bate版，仅供内部测试使用，商用或面向大众使用请自行承担风险，介意请勿购买。
 - 白菜GPT提供的是OpenAI API的低价转发服务，不是账号！不是账号！不是账号！需要搭配第三方软件或者插件使用，或你自行开发使用，具体第三方插件/软件使用，请看使用案例 [ChatGPT客户端推荐](https://doc.baicaigpt.com/doc-3708760)，如果看了还不会的，请勿购买。
 - 不了解转发API先看基础教程 [快速上手](https://doc.baicaigpt.com/doc-3675109)，
@@ -90,7 +89,7 @@
 
 `API_KEY:"baicai-xxxxxxxx"`
 
-`[会员会员API_KEY可自助按需充值](https://doc.baicaigpt.com/doc-3708694)`
+[付费会员API_KEY可自助按需充值](https://doc.baicaigpt.com/doc-3708694)
 
 
 # 5 帮助文档
