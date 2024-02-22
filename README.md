@@ -85,12 +85,13 @@
 - 白菜GPT提供的是OpenAI API的低价转发服务，不是账号！不是账号！不是账号！需要搭配第三方软件或者插件使用，或你自行开发使用，具体第三方插件/软件使用，请看使用案例 [ChatGPT客户端推荐](https://doc.baicaigpt.com/doc-3708760)，如果看了还不会的，请勿购买。
 - 不了解转发API先看基础教程 [快速上手](https://doc.baicaigpt.com/doc-3675109)，
 - 使用过程中，一定要用替换成白菜GPT提供API_BASE和API_KEY，差一个都是不对的。
-- 
+  
 `API_BASE:https://api.baicaigpt.com.cn/v1`
+
 `API_KEY:"baicai-xxxxxxxx"`
 
-- [会员会员API_KEY可自助按需充值](https://doc.baicaigpt.com/doc-3708694)
-:::
+`[会员会员API_KEY可自助按需充值](https://doc.baicaigpt.com/doc-3708694)`
+
 
 # 5 帮助文档
 > To check out the documentation, visit
