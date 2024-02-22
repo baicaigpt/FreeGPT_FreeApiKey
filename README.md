@@ -45,7 +45,7 @@
 > [图片说明：我的KEY]
 
 ### 第三步 应用"API_KEY"
-> 可复制API_KEY至您所需位置，具体API_KEY用法，可持续关注本项目，将在本项目[应用示例](https://github.com/baicaigpt/FreeGPT_FreeApiKey/tree/main/01%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B)中不断更新，已帮助大家第一时间使用白菜GPT提供的中转API_KEY获取更好的应用体验。
+> 可复制API_KEY至您所需位置，具体API_KEY用法，可持续关注本项目，将在本项目[应用示例](https://github.com/baicaigpt/FreeGPT_FreeApiKey/tree/main/01%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B)中不断更新，以帮助大家第一时间使用白菜GPT提供的中转API_KEY获取更好的应用体验。
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/4d2ebbdb-75f1-4eb2-a76a-789c5774a56e)
 >
@@ -64,7 +64,7 @@
 
 >**便捷支付，不限最低充值金额**：支持微信支付，1元起充，且按量付费，您完全可以充值1、2块钱测出是否满足自己需求，然后再决定是否进行更多的充值。
 
->**国内直连，无需科学上网**： 国内环境直接可用，白菜GTP通过国内直连和动态加速技术，我们的转发服务无需额外工具，比用工具连接OpenAI更为稳定，延时更低。 
+>**国内直连，无需科学上网**： 国内环境直接可用，白菜GPT通过国内直连和动态加速技术，我们的转发服务无需额外工具，比用工具连接OpenAI更为稳定，延时更低。 
 
 >**可定制的API密钥配额**： 白菜GPT允许您灵活地定制API密钥的配额，以满足不同场景下的个性化需求。
 
