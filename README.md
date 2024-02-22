@@ -72,9 +72,9 @@
 
 >**支持GPT4，获取多种模型能力**： 支持Models, Embedding, text-davinci, GPT-3.5-Turbo, GPT-3.5-Turbo-16K(免费版不支持), GPT-4，GPT-4 Turbo , DALLE(免费版不支持)。GPT-4 Turbo 模型是指 GPT-4 1106Preview。 
 
->**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流60次请求/小时/KEY&IP调用频率，GPT4由于价格过高，每小时限制3次调用，且不支持流式传输。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
+>**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流60次请求/小时/KEY&IP调用频率，GPT4由于价格过高，每小时限制3次调用，内测期间，支持流式请求。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
 
->**可商业使用，获取商用能力**：付费会员API_KEY，GPT3.5限流提升至1000次请求/小时/KEY&IP调用频率，GPT4限流提升至200次请求/小时/KEY&IP，建议[获取低价付费API KEY](https://doc.baicaigpt.com/doc-3708694)
+>**可商业使用，获取商用能力**：付费会员API_KEY，GPT3.5限流提升至1000次请求/小时/KEY&IP调用频率，GPT4限流提升至200次请求/小时/KEY&IP，支持流式请求，建议[获取低价付费API KEY](https://doc.baicaigpt.com/doc-3708694)
 
 >**无开发风险，接口与官方一致**：免费及付费版均与官方完全一致的接口标准，白菜GPT仅作官方API接口转发，[兼容各种软件/插件](https://doc.baicaigpt.com/doc-3708760)，付费版支持流式响应。
 
