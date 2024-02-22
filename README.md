@@ -37,14 +37,14 @@
 > [图片说明：会员中心]
 
 ### 第二步 查看“我的KEY”
-> 免费API_KEY扫码自动开通，长期免费提供，付费会员充值任意金额后自动升级为付费API_KEY，结合用户访问量弹性定价（目前为官方API的7-8折），力争帮助用户以最小的成本获得最好的体验。
+> 免费API_KEY扫码自动开通，长期免费提供，付费会员充值任意金额后自动升级为付费API_KEY，结合用户访问量弹性定价（目前为官方API的7-8折），详细价格请[参阅文档](https://doc.baicaigpt.com/doc-3675731)，力争帮助用户以最小的成本获得最好的体验。
 > 
 > [![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/e09526d9-35bd-40ba-86a7-074d7bbabd11)](https://shop.baicaigpt.com/#/key)
 >
 > [图片说明：我的KEY]
 
 ### 第三步 应用"API_KEY"
-> 可复制API_KEY至您所需位置，具体API_KEY用法，可持续关注本项目，将在本项目[应用示例](https://github.com/baicaigpt/FreeGPT_FreeApiKey/tree/main/01%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B)中不断更新，已帮助大家第一时间使用白菜GPT提供的中转API_KEY
+> 可复制API_KEY至您所需位置，具体API_KEY用法，可持续关注本项目，将在本项目[应用示例](https://github.com/baicaigpt/FreeGPT_FreeApiKey/tree/main/01%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B)中不断更新，已帮助大家第一时间使用白菜GPT提供的中转API_KEY获取更好的应用体验。
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/4d2ebbdb-75f1-4eb2-a76a-789c5774a56e)
 >
