@@ -28,7 +28,7 @@
 >
 > [图片说明：白菜GPT官网]
 # 3 快速开始
-## 三步获取API_KEY
+## 三步获取白菜GPT免费API_KEY
 ### 第一步 扫码开通会员
 > 扫码[注册会员](https://shop.baicaigpt.com/#/account)，开通会员，免费赠送API_KEY
 > 
