@@ -1,5 +1,5 @@
 # ![LOGO50](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c) 白菜GPT | 免费GPT中转API_KEY
-## 国内直连 | 无需代理 | 支持GPT3.5 | 4.0
+## 国内直连 | 无需代理 | 支持免费使用 GPT3.5 | 4.0
 ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/724eba23-12c8-44a0-8594-6b887b0985da)
 
 ## 🌟 欢迎使用白菜GPT！🌟 详细产品介绍，请查阅[帮助文档](https://doc.baicaigpt.com/)
