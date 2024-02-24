@@ -24,7 +24,7 @@
 
 我们提供的产品是基于OpenAI的转发URL和转发API，不同于OpenAI官方直接使用的API密钥。您需要配合我们推荐的[ChatGPT三方客户端](https://doc.baicaigpt.com/doc-3708760)或[OpenAI官方库开发](https://doc.baicaigpt.com/doc-3711097)使用。请放心，我们的服务与OpenAI官方API一致，同时我们完全尊重您的隐私[（隐私条款）](https://doc.baicaigpt.com/doc-3711273)，绝不会对您的请求及返回内容进行任何存储和处理。
 
-在使用前，我们建议您详细阅读我们的[基础教程](https://doc.baicaigpt.com/doc-3675109)，如果您对白菜GPT的产品和服务仍有疑问，请勿急于付费充值。同时，一旦您开始使用我们的服务，即表示您已同意我们的[免责声明](https://doc.baicaigpt.com/doc-3707761)。祝您使用愉快，尽情享受智能对话的乐趣！🚀
+在使用前，我们建议您详细阅读我们的[基础教程](https://doc.baicaigpt.com/doc-3675109)，如果您对白菜GPT的产品和服务仍有疑问，请勿急于选择付费会员。同时，一旦您开始使用我们的服务，即表示您已同意我们的[免责声明](https://doc.baicaigpt.com/doc-3707761)。祝您使用愉快，尽情享受智能对话的乐趣！🚀
 
 
 `OpenAI转发URL，API_BASE: https://api.baicaigpt.com/v1    替换官方域名api.openai.com`
