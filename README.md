@@ -3,6 +3,7 @@
 >[图片说明：白菜GPT-会员中心-消费明细]
 
 [![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/724eba23-12c8-44a0-8594-6b887b0985da)](https://shop.baicaigpt.com/#/wallet/expenseLog)
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/aa266d97-444d-4606-8716-a65921c2c466)
 
 ## 🌟 欢迎使用白菜GPT！🌟 详细产品介绍，请查阅[帮助文档](https://doc.baicaigpt.com/)
 # 1 简介
