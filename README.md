@@ -1,5 +1,9 @@
 # ![LOGO50](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c) 白菜GPT | 免费GPT中转API_KEY
 ## 国内直连 | 无需代理 | 支持免费使用 GPT3.5 \ 4.0
+
+[![banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/68818a5f-fa7e-4288-8df9-4059549aa86a)](https://shop.baicaigpt.com/#/account)
+
+
 [![1_banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/92a46644-ee63-4258-980f-bb4970300f6a)](https://oss.laf.run/vldwl3-shop/LobeChat.mp4)
 
 <video controls src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/blob/main/01%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B/LobeChat.mp4" muted="false"></video>
