@@ -1,9 +1,8 @@
 # ![LOGO50](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c) 白菜GPT | 免费GPT中转API_KEY
 ## 国内直连 | 无需代理 | 支持免费使用 GPT3.5 \ 4.0
->[图片说明：白菜GPT-会员中心-消费明细]
+![1_banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/92a46644-ee63-4258-980f-bb4970300f6a)
 
-[![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/724eba23-12c8-44a0-8594-6b887b0985da)](https://shop.baicaigpt.com/#/wallet/expenseLog)
-[![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/aa266d97-444d-4606-8716-a65921c2c466)](https://github.com/baicaigpt/FreeGPT_FreeApiKey/blob/main/01%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B/01%E5%BC%80%E5%8F%91%E7%94%A8%E6%88%B7/01%E5%8E%9F%E7%94%9F%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B/02%E5%AF%B9%E8%AF%9DChat/01chat_completions.ipynb)
+
 
 ## 🌟 欢迎使用白菜GPT！🌟 详细产品介绍，请查阅[帮助文档](https://doc.baicaigpt.com/)
 # 1 简介
