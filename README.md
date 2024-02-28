@@ -2,7 +2,7 @@
 ## 国内直连 | 无需代理 | 支持免费使用 GPT3.5 \ 4.0
 [![1_banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/92a46644-ee63-4258-980f-bb4970300f6a)](https://oss.laf.run/vldwl3-shop/LobeChat.mp4)
 
-<iframe width="360" height="615" src="https://oss.laf.run/vldwl3-shop/LobeChat.mp4" frameborder="0" allowfullscreen></iframe>
+<video controls src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/blob/main/01%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B/LobeChat.mp4" muted="false"></video>
 
 ## 🌟 欢迎使用白菜GPT！🌟 详细产品介绍，请查阅[帮助文档](https://doc.baicaigpt.com/)
 # 1 简介
