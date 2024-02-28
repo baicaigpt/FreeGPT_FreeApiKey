@@ -6,6 +6,7 @@
 
 [![1_banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/92a46644-ee63-4258-980f-bb4970300f6a)](https://oss.laf.run/vldwl3-shop/LobeChat.mp4)
 
+https://github.com/zhayujie/chatgpt-on-wechat/assets/26161723/d5154020-36e3-41db-8706-40ce9f3f1b1e
 
 ## 🌟 欢迎使用白菜GPT！🌟 详细产品介绍，请查阅[帮助文档](https://doc.baicaigpt.com/)
 # 1 简介
