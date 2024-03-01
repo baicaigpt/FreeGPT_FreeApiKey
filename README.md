@@ -110,7 +110,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
 - 白菜GPT付费API_KEY目前为Bate版，仅供内部测试使用，商用或面向大众使用请自行承担风险，介意请勿购买。
 - 温馨提示，白菜GPT提供的是OpenAI API的低价转发服务，不是账号，需要搭配第三方软件或者插件使用，或你自行开发使用，具体使用，请看视频教程《[奶奶看了都会用，白菜GPT配合LobeChat搭建免费私人ChatGPT保姆级教程](https://www.bilibili.com/video/BV1nv421r7mB/?share_source=copy_web&vd_source=4c352464975339d04ef4b24f530ceb6b)》，如果您觉的还不太了解如何使用，请先采用免费会员体验，切勿急于付费。
-- 不了解转发API，请先看基础教程 [快速上手](https://doc.baicaigpt.com/doc-3675109)，
+- 不了解转发API，请先看基础教程 [快速上手](https://doc.baicaigpt.com/doc-3675109)。
 - [付费会员API_KEY可自助按需充值](https://doc.baicaigpt.com/doc-3708694)
 - 使用过程中，一定要用替换成白菜GPT提供API_BASE和API_KEY，差一个都是不对的。
   
