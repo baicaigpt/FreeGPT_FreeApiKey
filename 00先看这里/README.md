@@ -1,3 +1,4 @@
+# 三步获取白菜API_KEY
 # 1. 注册白菜GPT会员
 ## 1.1 访问会员中心
 >扫描下方二维码 或访问链接[会员中心](https://shop.baicaigpt.com/#/account)进入白菜GPT会员中心
