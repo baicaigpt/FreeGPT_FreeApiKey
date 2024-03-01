@@ -97,19 +97,19 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
 >**无封号风险，提升OpenAI可用性**： 白菜GPT提供安全可靠的服务，因为这是中转服务，不担心因为国内IP调用而被封号。让您无需担心OpenAI风控问题，专心享受高效的OpenAI接口服务。
 
->**支持GPT4，获取多种模型能力**： 支持Models, Embedding, text-davinci, GPT-3.5-Turbo, GPT-3.5-Turbo-16K(免费版不支持), GPT-4，GPT-4 Turbo , DALLE(免费版不支持)。GPT-4 Turbo 模型是指 GPT-4 1106Preview。 
+>**支持GPT4，获取多种模型能力**： 支持Models, Embedding, text-davinci, GPT-3.5-Turbo, GPT-3.5-Turbo-16K(免费版支持), GPT-4，GPT-4 Turbo 。GPT-4 Turbo 模型是指 GPT-4 1106Preview。 
 
 >**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流60次请求/小时/KEY&IP调用频率，GPT4由于价格过高，每小时限制3次调用，内测期间，支持流式请求。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
 
->**可商业使用，获取商用能力**：付费会员API_KEY，GPT3.5限流提升至1000次请求/小时/KEY&IP调用频率，GPT4限流提升至200次请求/小时/KEY&IP，支持流式请求，建议[获取低价付费API KEY](https://doc.baicaigpt.com/doc-3708694)
+>**可商业使用，获取商用能力**：付费会员API_KEY，GPT3.5限流提升至1000次请求/小时/KEY&IP调用频率，10K Token/小时，GPT4限流提升至200次请求/小时/KEY&IP 1K Token/小时，内测期间支持流式请求，建议[获取低价付费API KEY](https://doc.baicaigpt.com/doc-3708694)
 
->**无开发风险，接口与官方一致**：免费及付费版均与官方完全一致的接口标准，白菜GPT仅作官方API接口转发，[兼容各种软件/插件](https://doc.baicaigpt.com/doc-3708760)，付费版支持流式响应。
+>**无开发风险，接口与官方一致**：免费及付费版均与官方完全一致的接口标准，白菜GPT仅作官方API接口转发，[兼容各种软件/插件](https://doc.baicaigpt.com/doc-3708760)，免费及付费会员均支持流式响应。
 
 >**尊重隐私，获取隐私保护**：白菜GPT高度重视隐私，致力于保护其用户的[隐私](https://doc.baicaigpt.com/doc-3711273)。不会以任何方式收集、记录或存储用户输入的任何文本或由 OpenAI 服务器返回的任何文本。不对对话内容进行留存处理。
 
 
 - 白菜GPT付费API_KEY目前为Bate版，仅供内部测试使用，商用或面向大众使用请自行承担风险，介意请勿购买。
-- 请注意，白菜GPT提供的是OpenAI API的低价转发服务，不是账号！需要搭配第三方软件或者插件使用，或你自行开发使用，具体第三方插件/软件使用，请看使用案例 [ChatGPT客户端推荐](https://doc.baicaigpt.com/doc-3708760)，如果看了还不清楚的，请勿付费。
+- 请注意，白菜GPT提供的是OpenAI API的低价转发服务，不是账号！需要搭配第三方软件或者插件使用，或你自行开发使用，具体第三方插件/软件使用，请看使用案例《[奶奶看了都会用，白菜GPT配合LobeChat搭建免费私人ChatGPT保姆级教程](https://www.bilibili.com/video/BV1nv421r7mB/?share_source=copy_web&vd_source=4c352464975339d04ef4b24f530ceb6b)》，如果看了还不清楚的，请勿付费。
 - 不了解转发API，请先看基础教程 [快速上手](https://doc.baicaigpt.com/doc-3675109)，
 - 使用过程中，一定要用替换成白菜GPT提供API_BASE和API_KEY，差一个都是不对的。
   
