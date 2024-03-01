@@ -4,7 +4,7 @@
 [![banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/68818a5f-fa7e-4288-8df9-4059549aa86a)](https://shop.baicaigpt.com/#/account)
 
 
-[![1_banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/92a46644-ee63-4258-980f-bb4970300f6a)](https://oss.laf.run/vldwl3-shop/LobeChat.mp4)
+[![1_banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/92a46644-ee63-4258-980f-bb4970300f6a)](https://www.bilibili.com/video/BV1nv421r7mB/?share_source=copy_web&vd_source=4c352464975339d04ef4b24f530ceb6b)
 
 https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4580-9895-dc9defc2b9d4
 
