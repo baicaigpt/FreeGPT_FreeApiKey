@@ -30,7 +30,7 @@
 点击详情，进入我的应用，访问外网URL
 ![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/425777/image-preview)
 
-### 7、登录FastGTP
+### 7、登录FastGPT
 输入ROOT账号密码，点击登录
 ![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/425783/image-preview)
 
