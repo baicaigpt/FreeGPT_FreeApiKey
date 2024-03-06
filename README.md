@@ -99,9 +99,9 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
 >**支持GPT4，获取多种模型能力**： 支持Models, Embedding, text-davinci, GPT-3.5-Turbo, GPT-3.5-Turbo-16K(免费版支持), GPT-4，GPT-4 Turbo 。GPT-4 Turbo 模型是指 GPT-4 1106Preview。 
 
->**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流60次请求/小时/KEY&IP调用频率，GPT4由于价格过高，每小时限制3次调用，内测期间，支持流式请求。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
+>**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流60次请求/小时/KEY&IP调用频率，10K Token/小时，GPT4由于价格过高，每小时限制3次调用，1K Token/小时，内测期间，支持流式请求。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
 
->**可商业使用，获取商用能力**：付费会员API_KEY，GPT3.5限流提升至1000次请求/小时/KEY&IP调用频率，10K Token/小时，GPT4限流提升至200次请求/小时/KEY&IP 1K Token/小时，内测期间支持流式请求，建议[获取低价付费API KEY](https://doc.baicaigpt.com/doc-3708694)
+>**可商业使用，获取商用能力**：付费会员API_KEY，GPT3.5限流提升至1000次请求/小时/KEY&IP调用频率，GPT4限流提升至200次请求/小时/KEY&IP，内测期间支持流式请求，建议[获取低价付费API KEY](https://doc.baicaigpt.com/doc-3708694)，商用支持模型、接口及请求频率定制需求，可[联系客服](https://shop.baicaigpt.com/#/support)。
 
 >**无开发风险，接口与官方一致**：免费及付费版均与官方完全一致的接口标准，白菜GPT仅作官方API接口转发，[兼容各种软件/插件](https://doc.baicaigpt.com/doc-3708760)，免费及付费会员均支持流式响应。
 
@@ -118,15 +118,151 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
     `API_KEY:"baicai-xxxxxxxx"`
 
+# 5 开发前必读
+
+## 支持模型配额及价格
+
+**免费会员API KEY**
+> - 价格：免费
+> - 频率限制：GPT3.5 限 60次请求/小时/IP&KEY的请求频率，GPT4 限 3次请求/小时/IP&Key请求频率。
+> - Token限制：GPT3.5 限 10K Tokens/小时/IP&KEY，GPT4 限 1K Tokens /小时/IP&KEY。
+
+**付费会员API KEY**
+> - 价格：GPT3.5相当于官方价格7折, 4.0相当于官方价格的7-8折左右。
+> - 频率限制：GPT3.5限速1000请求/小时/IP&Key的请求频率，GPT4限速200请求/小时/IP&Key请求频率。
+> - Token限制：付费会员仅为每次交互最大Token数限制，与 [OPENAI官方](https://openai.com/pricing#language-models)一致。
 
 
+- 限流是指请求频率限制，是按照API_KEY和请求IP执行，申请多个API_KEY不会增加限流额度，也就是说你如果在一个IP下使用多个KEY，所有KEY的每小时请求数总和不能超过请求频率；同理，你如果将一个KEY用于多个IP，这个KEY的每小时请求数也不能超过模型限流。
 
-# 5 帮助文档
+- 免费会员Token限制指，每小时，输入+输出的合计Token数量，付费会员无此限制。
+
+
+**白菜GPT模型配额及价格**
+> （单位：元）及模型限流（单位：小时）如表格：
+
+| 模型 | 请求价格 | 回答价格| 免费会员限速|免费会员是否支持|付费会员限速|付费会员是否支持 | 
+| --- | --- | --- | --- | --- | --- | --- |
+|gpt-3.5-turbo-0125 | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
+|gpt-3.5-turbo | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
+| gpt-3.5-turbo-1106 | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
+| gpt-3.5-turbo-0613 | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
+| gpt-3.5-turbo-instruct | 0.01/1K Tokens| 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
+| gpt-3.5-turbo-16k |  0.015/1K Tokens | 0.015/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
+| gpt-3.5-turbo-16k-0613 | 0.015/1K Tokens| 0.015/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
+| gpt-4-0125-preview | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-4-turbo-preview| 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-4-1106-preview | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-4-vision-preview | 0.3/1K Tokens | 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-4-1106-vision-preview | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-4 | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-4-0613 | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
+
+更多模型陆续开放，持续更新，暂不支持 gpt-4-32k | gpt-4-32k-0613
+
+
+- "模型限流1000 RPH"中的RPH代表"Requests Per Hour"，即每小时请求数。因此，"模型限流1000 RPH"表示该模型在一小时内可以处理的请求数量上限为1000个。
+- 如果在一个IP下使用多个Key，所有Key的每小时请求数总和不能超过模型限流。
+- 如果将一个Key用于多个IP，这个Key的每小时请求数也不能超过模型限流。
+
+
+**OpenAI官方定价**
+
+[OPENAI网站计费](https://openai.com/pricing#language-models  )说明：
+
+OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单词，或 500 个汉字。输入（Prompt）和输出（Completion）分别统计费用。  
+|模型|用户输入（Prompt）计费|模型输出（Completion）计费|每次交互最大 token 数|
+|----|----|----|----|
+|gpt-3.5-turbo|$0.0015 / 1 千 tokens|$0.002 / 1 千 tokens|4096|
+|gpt-3.5-turbo-16K|$0.003 / 1 千 tokens|$0.004 / 1 千 tokens|16384|
+|gpt-4|$0.03 / 1 千 tokens|$0.06 / 1 千 tokens|8192|
+|gpt-4-32K|$0.06 / 1 千 tokens|$0.12 / 1 千 tokens|32768|
+
+
+- 支持定制化，如对模型或请求速率有个性化开放需求可[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)
+- 支持电子发票，充值累计满1000元可开电子发票，详情可[联系客服](https://shop.baicaigpt.com/#/support)
+
+## 返回码说明
+开发者每次调用白菜GPT转发API接口时，可能获得正确或错误的返回码，可根据返回码信息调试接口，排查错误。
+
+全局返回码说明如下：
+
+| 返回码 | 说明 |
+| --- | --- |
+| -1 | 原因：系统繁忙，我们的服务器流量过载或其他内部异常。<br>解决方案：稍等片刻后重试您的请求，如果问题仍然存在，请[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40001 | 原因：请求的API_KEY不正确。<br>解决方案：请开发者认真比对获取到的API_KEY的正确性，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
+| 41001 | 原因：缺少API_KEY参数<br>解决方案：请开发者认真检查Header参数包含Authorization，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
+| 40038 | 原因：Authorization参数格式不正确<br>解决方案：请开发者认真检查Header的Authorization参数格式为Bearer baicai-xxxxxxxx，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
+| 40039 | 原因：请求参数不能为空<br>解决方案：请检查是否正常发送请求消息，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) ，如问题仍然存在，请[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40243 | 原因：API_KEY已被冻结<br>解决方案：请[联系客服](https://shop.baicaigpt.com/#/support)申请解冻后再次调用 |
+| 45011 | 原因：API 调用太频繁<br>解决方案：请稍候再试 |
+| 48001 | 原因：请求模型暂未支持<br>解决方案：请确认API_KEY已获得该模型使用权限，可在[所支持模型](https://doc.baicaigpt.com/doc-3675731)中查看已支持模型 |
+| 48002 | 原因：请求模型未知，除Models接口外，其他接口请求参数均需填写model字段<br>解决方案：请检查请求体内容是否遗漏model参数，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) 。 |
+| 48004 | 原因：API接口暂未支持，请确保请求API地址不要重复添加v1<br>解决方案：白菜GPT已开放接口参见API接口文档，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) 。|
+| 48005 | 原因：免费会员不支持流式请求(内测期间支持)<br>解决方案：请完成充值，升级为付费会员后继续重新请求 |
+| 40029 | 原因：免费版已达到请求的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
+| 40030 | 原因：付费版已达到请求的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或[联系客服](https://shop.baicaigpt.com/#/support)购买VIP专属通道，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
+| 40031 | 原因：免费版已达到请求的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
+
+以上仅为白菜GPT转发API的错误码，正常情况不会返回，只会返回白菜GPT不做任何处理的OpenAI返回码，具体定义请阅[官方文档](https://platform.openai.com/docs/guides/error-codes/api-errors)
+
+# 6 常见问题及解决方法
+
+## 白菜GPT的计费怎么计算的？
+> 白菜GPT计费真实可靠，采用OpenAI官方库TikeToken来统计Token，统计结果与OpenAI官方Token一致，且是官方价格的7折左右。
+ > OpenAI官方价格可访问 [官方文档](https://openai.com/pricing)
+ > OpenAI也提供了在线工具让大家计算某段回答用了多少Token，如有疑虑，可自行验证：https://platform.openai.com/tokenizer
+ > Token计算示例可访问 [三方Token计算器](https://tiktokenizer.vercel.app)
+ > 白菜GPT余额和使用记录查询可访问 [白菜GPT消费明细]( https://shop.baicaigpt.com/#/wallet/expenseLog)
+
+## 白菜GPT是否真实支持GPT4
+> 白菜GPT创立初心是便于开发人员学习并了解最新AI能力范围，作者自己用的同时，也顺便帮助更多开发伙伴了解GPT4的能力上线，属于半公益产品，所以请放心，采用的是真实的OpenAI GPT4的API接口，如有开发基础，请参阅下图或自己验证
+> ![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/424248/image-preview)
+
+## GPT4为什么这么贵
+> OpenAI ChatGPT API是收费的，不同模型（如GPT-3.5、GPT-4.0等）的收费标准不一样，到GPT-4 API价格几乎是GPT-3.5 API价格的20倍，以下是OpenAI官方的API价格。(官方可能会变更收费标准，具体以实际为准)
+> ![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/425388/image-preview)
+
+## 是否有必要选择GPT4模型
+> GPT4是一种多模态模型，而GPT3.5是一种自然语言处理模型。
+>简单来说，就是自然语言模型只能听或看懂语言，而多模态模型可以处理多种媒体数据，并且将他们整合到统一的语义空间之中。
+>GPT4可以进行看图作答，文字作答，数据推理，分析图表，角色扮演等。
+>当然了，GPT3.5也可以进行角色扮演和文字作答，但功能上要弱那么一些，至于其他项，那就是差的很多了。所以用GPT3.5基本可以满足日常需求。
+
+
+## 是否支持流式请求？
+> 为便于大家使用ChatGPT三方软件，内测期间，免费用户及付费用户均支持流式请求，内测结束后，仅付费会员支持流式请求，请求及返回结果参考如下
+
+![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/423722/image-preview)
+
+## 在用三方客户端产品的时候返回空消息怎么办？
+>![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/423799/image-preview)
+>如上图所示，在用白菜API配置的三方客户端应用（例如LobeChat）过程中无法获得有效返回。
+>原因分析：免费会员GPT3.5/4有每小时频率及tokens限制，请登录会员中心-消费记录，检查，是否已经超出每小时请求配额。
+>解决建议：升级付费会员，或待最后一次请求过一小时后重试，启用新下发配额。如还未解决，可提交工单。
+>**请注意，针对免费会员白菜GPT的API的调用除了频次限制，还有tokens限制，付费会员上下文tokens限制与[官方一致](https://openai.com/pricing#language-models)：**
+>GPT3.5
+>>10k tokens / 小时（总对话字数约5000字中文）
+>>60 次请求 / 小时
+
+>GPT4
+>>1k tokens / 小时（总对话字数约500字中文）
+>>3 次请求 / 小时
+
+>这个配额对普通应用、功能测试和概念验证来说已经足够了，如需更多频次，请考虑付费会员。
+
+## 我用GPT4问模型的名字，为什么告诉不是GPT4，白菜不是支持GPT4么？
+> GPT的回答是基于语料库的，GPT-4 的训练语料库还停留在2021 年9 月之前，所以它回答不了是GPT4，不过你可以看下[示例代码](https://github.com/baicaigpt/FreeGPT_FreeApiKey/blob/main/01%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B/01%E5%BC%80%E5%8F%91%E7%94%A8%E6%88%B7/01%E5%8E%9F%E7%94%9F%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B/02%E5%AF%B9%E8%AF%9DChat/01chat_completions.ipynb)
+> 执行的返回结果，请求的是GPT4，返回内容里会明确用到的模型，是GPT4无误的
+>![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/424248/image-preview)
+
+
+# 7 帮助文档
 > To check out the documentation, visit
 > 
 > - [简体中文](https://doc.baicaigpt.com/)
 > 
-# 6 更新日志
+# 8 更新日志
 > Please check the [Releases](https://github.com/baicaigpt/FreeGPT_FreeApiKey/releases) page of this project.
 > 
 # 喜欢这个项目，就请点个Star吧 ⭐  🎉.
