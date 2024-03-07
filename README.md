@@ -272,8 +272,11 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 > 
 # 8 更新日志
 > Please check the [Releases](https://github.com/baicaigpt/FreeGPT_FreeApiKey/releases) page of this project.
+> 
 > 20240306 补充FastGPT对接白菜GPT一键部署教程
+> 
 > 20240307 补充白菜GPT支撑AutoGen开发示例
+> 
 # 🌟 如果你喜欢 白菜GPT 的话，就请给一个 Star 吧！🌟.
  ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e)
  > 应无所住而生其心
