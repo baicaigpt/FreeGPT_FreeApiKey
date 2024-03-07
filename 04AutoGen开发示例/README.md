@@ -15,4 +15,4 @@
 > 在本示例中，我们演示如何使用定制代理持续从网络获取新闻并请求投资建议。
 - 官方文档
 > https://github.com/microsoft/autogen/blob/main/notebook/agentchat_stream.ipynb
-<script src="https://gist.github.com/baicaigpt/66510b611cb337b86aa3472786ae5c11.js"></script>
+https://gist.github.com/baicaigpt/66510b611cb337b86aa3472786ae5c11
