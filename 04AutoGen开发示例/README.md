@@ -1,5 +1,5 @@
 # AutoGen示例说明
-- AI Agent仅限GPT4支持，请完成一次请求Token不可预估，请留意费用消耗。
+- AI Agent仅限GPT4支持，完成一次请求Token不可预估，请留意费用消耗。
 - 免费会员GPT4配额，很可能不足以支撑完成DEMO演示，建议付费会员测试体验。
 - 部分示例代码参考AutoGen官方文档，重点验证白菜GPT对AutoGen的支撑能力，详细代码说明，请参考[官方文档](https://microsoft.github.io/autogen/docs/Examples)。
 - 所有示例代码均在colab上调试通过，仅需替换白菜GPT的API_KEY即可
