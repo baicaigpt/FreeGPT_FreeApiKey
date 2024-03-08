@@ -72,7 +72,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 > [图片说明：我的KEY]
 
 ### 第三步 应用"API_KEY"
-> 可复制API_KEY至您所需位置，具体API_KEY用法，可持续关注本项目，将在本项目[应用示例](https://github.com/baicaigpt/FreeGPT_FreeApiKey/tree/main/01%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B)中不断更新，以帮助大家第一时间使用白菜GPT提供的中转API_KEY获取更好的应用体验。
+> 可复制API_KEY至您所需位置，具体API_KEY用法，可持续关注本项目，将在[GitHub](https://github.com/baicaigpt/FreeGPT_FreeApiKey)不定义更新，以帮助大家第一时间使用白菜GPT提供的中转API_KEY获取更好的应用体验。
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/4d2ebbdb-75f1-4eb2-a76a-789c5774a56e)
 >
