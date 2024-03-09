@@ -1,5 +1,5 @@
 # ![LOGO50](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c) 白菜GPT | ChatGPT国内免费使用 | 无需魔法 |无需充值 | 直接可以用
-## 国内直连 | 无需代理 | 支持免费使用 GPT3.5 \ 4.0
+## 国内直连 | 无需代理 | 支持免费使用 GPT3.5 \ 4.0 | 支持DALL·E3 DALL·E2
 
 [![banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/68818a5f-fa7e-4288-8df9-4059549aa86a)](https://shop.baicaigpt.com/#/account)
 
@@ -160,6 +160,16 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 | gpt-4 | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
 | gpt-4-0613 | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
 
+|模型（Model）|quality|size|价格|免费会员是否支持|付费会员是否支持|付费会员限速|
+| --- | --- | --- | --- | --- | --- |--- |
+DALLE.3|standard | 1024×1024|0.4/image|❌|✅|30 RPH |
+DALLE.3|standard | 1024×1792,1792×1024|0.8/image|❌|✅|30 RPH |
+DALLE.3|hd| 1024×1024|0.8/image|❌|✅|30 RPH |
+DALLE.3|hd| 1024×1792,1792×1024|1.2/image|❌|✅|30 RPH |
+DALLE.2|| 1024×1024|0.2/image|❌|✅|30 RPH |
+DALLE.2|| 512x512|0.18/image|❌|✅|30 RPH |
+DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
+
 更多模型陆续开放，持续更新，暂不支持 gpt-4-32k | gpt-4-32k-0613
 
 
@@ -191,20 +201,26 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 
 | 返回码 | 说明 |
 | --- | --- |
-| -1 | 原因：系统繁忙，我们的服务器流量过载或其他内部异常。<br>解决方案：稍等片刻后重试您的请求，如果问题仍然存在，请[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| -1 | 原因：系统繁忙，我们的服务器流量过载或其他内部异常。<br>解决方案：稍等片刻后重试您的请求，如果问题仍然存在，请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
 | 40001 | 原因：请求的API_KEY不正确。<br>解决方案：请开发者认真比对获取到的API_KEY的正确性，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
 | 41001 | 原因：缺少API_KEY参数<br>解决方案：请开发者认真检查Header参数包含Authorization，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
 | 40038 | 原因：Authorization参数格式不正确<br>解决方案：请开发者认真检查Header的Authorization参数格式为Bearer baicai-xxxxxxxx，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
-| 40039 | 原因：请求参数不能为空<br>解决方案：请检查是否正常发送请求消息，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) ，如问题仍然存在，请[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40243 | 原因：API_KEY已被冻结<br>解决方案：请[联系客服](https://shop.baicaigpt.com/#/support)申请解冻后再次调用 |
+| 40039 | 原因：请求参数不能为空<br>解决方案：请检查是否正常发送请求消息，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) ，如问题仍然存在，请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40243 | 原因：API_KEY已被冻结<br>解决方案：请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)申请解冻后再次调用。 |
 | 45011 | 原因：API 调用太频繁<br>解决方案：请稍候再试 |
-| 48001 | 原因：请求模型暂未支持<br>解决方案：请确认API_KEY已获得该模型使用权限，可在[所支持模型](https://doc.baicaigpt.com/doc-3675731)中查看已支持模型 |
+| 48001 | 原因：请求模型暂未支持<br>解决方案：可在[所支持模型](https://doc.baicaigpt.com/doc-3675731)中查看已支持模型，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
 | 48002 | 原因：请求模型未知，除Models接口外，其他接口请求参数均需填写model字段<br>解决方案：请检查请求体内容是否遗漏model参数，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) 。 |
-| 48004 | 原因：API接口暂未支持，请确保请求API地址不要重复添加v1<br>解决方案：白菜GPT已开放接口参见API接口文档，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) 。|
-| 48005 | 原因：免费会员不支持流式请求(内测期间支持)<br>解决方案：请完成充值，升级为付费会员后继续重新请求 |
-| 40029 | 原因：免费版已达到请求的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
-| 40030 | 原因：付费版已达到请求的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或[联系客服](https://shop.baicaigpt.com/#/support)购买VIP专属通道，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
-| 40031 | 原因：免费版已达到请求的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
+| 48004 | 原因：API接口暂未支持，请确保请求API地址不要重复添加v1<br>解决方案：白菜GPT已开放接口参见API接口文档，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) ，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。|
+| 48005 | 原因：免费会员不支持流式请求(内测期间支持)<br>解决方案：请完成充值，升级为付费会员后继续重新请求。 |
+| 40020 | 原因：免费会员gpt3.5请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
+| 40021 | 原因：免费会员gpt4请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
+| 40022 | 原因：付费会员gpt3.5请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40023 | 原因：付费会员gpt4请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40031 | 原因：免费会员gpt3.5请求已达到的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。
+| 40032 | 原因：免费会员gpt4请求已达到的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
+| 40040 | 原因：付费会员 dall-e-2请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：降低您的请求速率，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40041 | 原因：付费会员 dall-e-3请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：降低您的请求速率，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40050 | 原因：免费会员不支持请求dall模型<br>解决方案：请付费充值升级为付费会员后再次请求，可在[所支持模型](https://doc.baicaigpt.com/doc-3675731)中查看详情。 |
 
 以上仅为白菜GPT转发API的错误码，正常情况不会返回，只会返回白菜GPT不做任何处理的OpenAI返回码，具体定义请阅[官方文档](https://platform.openai.com/docs/guides/error-codes/api-errors)
 
@@ -278,6 +294,11 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 > 20240306 补充FastGPT对接白菜GPT一键部署教程
 > 
 > 20240307 补充白菜GPT支撑AutoGen开发示例
+>
+> 20240307
+> >DALL·E3,DALL·E2模型上线
+> >支持创建图像接口https://api.baicaigpt.com/v1/images/generations
+> >补充相应返回码
 > 
 # 🌟 如果你喜欢 白菜GPT 的话，就请给一个 Star 吧！🌟.
  ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e)
