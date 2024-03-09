@@ -160,7 +160,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 | gpt-4 | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
 | gpt-4-0613 | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
 
-|模型（Model）|quality|size|价格|免费会员是否支持|付费会员是否支持|付费会员限速|
+|模型|quality|size|价格|免费会员是否支持|付费会员是否支持|付费会员限速|
 | --- | --- | --- | --- | --- | --- |--- |
 DALLE.3|standard | 1024×1024|0.4/image|❌|✅|30 RPH |
 DALLE.3|standard | 1024×1792,1792×1024|0.8/image|❌|✅|30 RPH |
