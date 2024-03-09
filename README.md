@@ -297,7 +297,9 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 >
 > 20240307
 > >DALL·E3,DALL·E2模型上线
+> >
 > >支持创建图像接口https://api.baicaigpt.com/v1/images/generations
+> >
 > >补充相应返回码
 > 
 # 🌟 如果你喜欢 白菜GPT 的话，就请给一个 Star 吧！🌟.
