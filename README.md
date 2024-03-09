@@ -99,7 +99,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
 >**无封号风险，提升OpenAI可用性**： 白菜GPT提供安全可靠的服务，因为这是中转服务，不担心因为国内IP调用而被封号。让您无需担心OpenAI风控问题，专心享受高效的OpenAI接口服务。
 
->**支持GPT4，获取多种模型能力**： 支持Models, Embedding, text-davinci, GPT-3.5-Turbo, GPT-3.5-Turbo-16K(免费版支持), GPT-4，GPT-4 Turbo 。GPT-4 Turbo 模型是指 GPT-4 1106Preview。 
+>**支持GPT4，获取多种模型能力**： 支持Models, GPT-3.5-Turbo, GPT-3.5-Turbo-16K(免费版支持), GPT-4，GPT-4 Turbo，DALL·E 3，DALL·E 2等，详情请参阅文档[模型清单](https://doc.baicaigpt.com/doc-3675731)。 
 
 >**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流60次请求/小时/KEY&IP调用频率，10K Token/小时，GPT4由于价格过高，每小时限制3次调用，1K Token/小时，内测期间，支持流式请求。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
 
