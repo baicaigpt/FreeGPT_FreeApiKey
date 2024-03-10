@@ -304,9 +304,11 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 > 20240310
 > >DALL·E3,DALL·E2模型上线
 > >
-> >支持创建图像接口https://api.baicaigpt.com/v1/images/generations
+> >支持创建图像接口[示例代码](https://github.com/baicaigpt/FreeGPT_FreeApiKey/tree/main/05DALL%C2%B7E%203%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B)
+> >
 > >[DALL-E3能力首图](https://github.com/baicaigpt/FreeGPT_FreeApiKey/tree/main/05DALL%C2%B7E%203%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B)
 > >![img-gd2VLpsJ5T2rlBygQlXt9VTh](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/6471973f-2e1a-4b03-893d-b0e8a6bef965)
+> >
 > >补充相应返回码
 > 
 # 🌟 如果你喜欢 白菜GPT 的话，就请给一个 Star 吧！🌟.
