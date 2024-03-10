@@ -101,7 +101,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
 >**支持GPT4，获取多种模型能力**： 支持Models, GPT-3.5-Turbo, GPT-3.5-Turbo-16K(免费版支持), GPT-4，GPT-4 Turbo，DALL·E 3，DALL·E 2等，详情请参阅文档[模型清单](https://doc.baicaigpt.com/doc-3675731)。 
 
->**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流60次请求/小时/KEY&IP调用频率，10K Token/小时，GPT4由于价格过高，每小时限制3次调用，1K Token/小时，内测期间，支持流式请求。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
+>**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流60次请求/小时/KEY&IP调用频率，10K Token/小时，GPT4由于价格过高，每小时限制1次调用，1K Token/小时，内测期间，支持流式请求。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
 
 >**可商业使用，获取商用能力**：付费会员API_KEY，GPT3.5限流提升至1000次请求/小时/KEY&IP调用频率，GPT4限流提升至200次请求/小时/KEY&IP，内测期间支持流式请求，建议[获取低价付费API KEY](https://doc.baicaigpt.com/doc-3708694)，商用支持模型、接口及请求频率定制需求，可[联系客服](https://shop.baicaigpt.com/#/support)。
 
@@ -124,20 +124,26 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
 ## 支持模型配额及价格
 
+📌
 **免费会员API KEY**
 > - 价格：免费
-> - 频率限制：GPT3.5 限 60次请求/小时/IP&KEY的请求频率，GPT4 限 3次请求/小时/IP&Key请求频率。
+> - 频率限制：GPT3.5 限 60次请求/小时/IP&KEY的请求频率，GPT4 限 1次请求/小时/IP&KEY请求频率。
 > - Token限制：GPT3.5 限 10K Tokens/小时/IP&KEY，GPT4 限 1K Tokens /小时/IP&KEY。
 
+
+📌
 **付费会员API KEY**
-> - 价格：GPT3.5相当于官方价格7折, 4.0相当于官方价格的7-8折左右。
-> - 频率限制：GPT3.5限速1000请求/小时/IP&Key的请求频率，GPT4限速200请求/小时/IP&Key请求频率。
+> - 价格：GPT3.5相当于官方价格7折, 4.0于官方价格基本持平。
+> - 频率限制：GPT3.5限速1000请求/小时/IP&Key的请求频率，GPT4限速200次请求/小时/IP&KEY请求频率， DALLE限速30次请求/小时/IP&KEY请求频率。
 > - Token限制：付费会员仅为每次交互最大Token数限制，与 [OPENAI官方](https://openai.com/pricing#language-models)一致。
 
 
+📌
 - 限流是指请求频率限制，是按照API_KEY和请求IP执行，申请多个API_KEY不会增加限流额度，也就是说你如果在一个IP下使用多个KEY，所有KEY的每小时请求数总和不能超过请求频率；同理，你如果将一个KEY用于多个IP，这个KEY的每小时请求数也不能超过模型限流。
 
 - 免费会员Token限制指，每小时，输入+输出的合计Token数量，付费会员无此限制。
+
+- 仅面向付费会员开放gpt-3.5-turbo-16k | gpt-3.5-turbo-16k-0613 | gpt-4 | gpt-4-0613 | gpt-4-turbo-preview | gpt-4-turbo-preview | DALLE.3 | DALLE.2 |模型
 
 
 **白菜GPT模型配额及价格**
@@ -149,16 +155,15 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 |gpt-3.5-turbo | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
 | gpt-3.5-turbo-1106 | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
 | gpt-3.5-turbo-0613 | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
-| gpt-3.5-turbo-instruct | 0.01/1K Tokens| 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
-| gpt-3.5-turbo-16k |  0.015/1K Tokens | 0.015/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
-| gpt-3.5-turbo-16k-0613 | 0.015/1K Tokens| 0.015/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
-| gpt-4-0125-preview | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
-| gpt-4-turbo-preview| 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
-| gpt-4-1106-preview | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
-| gpt-4-vision-preview | 0.3/1K Tokens | 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
-| gpt-4-1106-vision-preview | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
-| gpt-4 | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
-| gpt-4-0613 | 0.3/1K Tokens| 0.3/1K Tokens | 3 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-3.5-turbo-16k |  0.015/1K Tokens | 0.015/1K Tokens | -- | ❌ | 1000 RPH | ✅ | 
+| gpt-3.5-turbo-16k-0613 | 0.015/1K Tokens| 0.015/1K Tokens | -- | ❌ | 1000 RPH | ✅ | 
+| gpt-4-0125-preview | 0.3/1K Tokens| 0.3/1K Tokens | 1 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-4-1106-vision-preview | 0.3/1K Tokens| 0.3/1K Tokens | 1 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-4-1106-preview | 0.3/1K Tokens| 0.3/1K Tokens | 1 RPH | ✅ | 200 RPH| ✅ | 
+| gpt-4-0613 | 0.5/1K Tokens| 0.5/1K Tokens | -- | ❌ | 200 RPH| ✅ | 
+| gpt-4-turbo-preview| 0.5/1K Tokens| 0.5/1K Tokens | -- | ❌ | 200 RPH| ✅ | 
+| gpt-4-vision-preview | 0.5/1K Tokens | 0.5/1K Tokens | -- | ❌ | 200 RPH| ✅ | 
+| gpt-4 | 0.5/1K Tokens| 0.5/1K Tokens | -- | ❌ | 200 RPH| ✅ | 
 
 |模型|quality|size|价格|免费会员是否支持|付费会员是否支持|付费会员限速|
 | --- | --- | --- | --- | --- | --- |--- |
@@ -170,7 +175,9 @@ DALLE.2|| 1024×1024|0.2/image|❌|✅|30 RPH |
 DALLE.2|| 512x512|0.18/image|❌|✅|30 RPH |
 DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 
-更多模型陆续开放，持续更新，暂不支持 gpt-4-32k | gpt-4-32k-0613
+> 仅面向付费会员开放gpt-3.5-turbo-16k | gpt-3.5-turbo-16k-0613 | gpt-4 | gpt-4-0613 | gpt-4-turbo-preview | gpt-4-turbo-preview | DALLE.3 | DALLE.2 |模型
+
+> gpt-4-32k | gpt-4-32k-0613 暂不支持 
 
 
 - "模型限流1000 RPH"中的RPH代表"Requests Per Hour"，即每小时请求数。因此，"模型限流1000 RPH"表示该模型在一小时内可以处理的请求数量上限为1000个。
@@ -216,11 +223,11 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 | 40021 | 原因：免费会员gpt4请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
 | 40022 | 原因：付费会员gpt3.5请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
 | 40023 | 原因：付费会员gpt4请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40031 | 原因：免费会员gpt3.5请求已达到的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。
-| 40032 | 原因：免费会员gpt4请求已达到的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
+| 40031 | 原因：免费会员gpt3.5请求已达到的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：请[升级为付费会员](https://doc.baicaigpt.com/doc-3708694)后重试，详情请[参阅文档](https://doc.baicaigpt.com/doc-3675731)。
+| 40032 | 原因：免费会员gpt4请求已达到的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：请[升级为付费会员](https://doc.baicaigpt.com/doc-3708694)后重试，详情请[参阅文档](https://doc.baicaigpt.com/doc-3675731)。 |
 | 40040 | 原因：付费会员 dall-e-2请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：降低您的请求速率，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
 | 40041 | 原因：付费会员 dall-e-3请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：降低您的请求速率，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40050 | 原因：免费会员不支持请求dall模型<br>解决方案：请付费充值升级为付费会员后再次请求，可在[所支持模型](https://doc.baicaigpt.com/doc-3675731)中查看详情。 |
+| 40050 | 原因：免费会员不支持该模型请求<br>解决方案：请[升级为付费会员](https://doc.baicaigpt.com/doc-3708694)后重试，具体模型清单请[参阅文档](https://doc.baicaigpt.com/doc-3675731)。 |
 
 以上仅为白菜GPT转发API的错误码，正常情况不会返回，只会返回白菜GPT不做任何处理的OpenAI返回码，具体定义请阅[官方文档](https://platform.openai.com/docs/guides/error-codes/api-errors)
 
