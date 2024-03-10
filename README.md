@@ -133,7 +133,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
 📌
 **付费会员API KEY**
-> - 价格：GPT3.5相当于官方价格7折, 4.0于官方价格基本持平。
+> - 价格：GPT3.5相当于官方价格7折, 4.0与官方价格基本持平。
 > - 频率限制：GPT3.5限速1000请求/小时/IP&Key的请求频率，GPT4限速200次请求/小时/IP&KEY请求频率， DALLE限速30次请求/小时/IP&KEY请求频率。
 > - Token限制：付费会员仅为每次交互最大Token数限制，与 [OPENAI官方](https://openai.com/pricing#language-models)一致。
 
@@ -175,7 +175,6 @@ DALLE.2|| 1024×1024|0.2/image|❌|✅|30 RPH |
 DALLE.2|| 512x512|0.18/image|❌|✅|30 RPH |
 DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 
-> 仅面向付费会员开放gpt-3.5-turbo-16k | gpt-3.5-turbo-16k-0613 | gpt-4 | gpt-4-0613 | gpt-4-turbo-preview | gpt-4-turbo-preview | DALLE.3 | DALLE.2 |模型
 
 > gpt-4-32k | gpt-4-32k-0613 暂不支持 
 
