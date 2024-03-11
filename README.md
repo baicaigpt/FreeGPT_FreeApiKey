@@ -4,7 +4,7 @@
 
 注册会员立刻免费体验GPT3.5/GPT4.0
 
-[简介](#1 简介)  /  [产品服务](#2 产品服务) | [快速开始](#3 快速开始) | [API帮助文档](https://doc.baicaigpt.com/api-146134060) | 产品价值&优势(#4 产品价值&优势) | 开发前必读(# 5 开发前必读) | 常见问题及解决方法(# 6 常见问题及解决方法)
+[简介](#1简介)  /  [产品服务](#2 产品服务) | [快速开始](#3 快速开始) | [API帮助文档](https://doc.baicaigpt.com/api-146134060) | 产品价值&优势(#4 产品价值&优势) | 开发前必读(# 5 开发前必读) | 常见问题及解决方法(# 6 常见问题及解决方法)
 
 [激活会员获取免费API_KEY](https://shop.baicaigpt.com/#/account) | [1元起充获取付费API_KEY](https://shop.baicaigpt.com/#/login?redirect=/wallet/recharge) 
 
