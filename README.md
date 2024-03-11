@@ -5,7 +5,7 @@
 
 [注册会员](https://shop.baicaigpt.com/#/register)立刻领取免费GPT3.5/GPT4.0
 
-[简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API接口文档](https://doc.baicaigpt.com/api-146134060) | [产品价值&优势](#4产品价值&优势) | [开发前必读](#5开发前必读) | [常见问题及解决方法](#6常见问题及解决方法)
+[简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API接口文档](https://doc.baicaigpt.com/api-146134060) | [产品价值&优势](#4产品价值和优势) | [开发前必读](#5开发前必读) | [常见问题及解决方法](#6常见问题及解决方法)
 
 [激活会员获取免费API_KEY](https://doc.baicaigpt.com/doc-3675805) | [1元起充获取付费API_KEY](https://doc.baicaigpt.com/doc-3708694) 
 
@@ -97,7 +97,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/37cdf619-4a13-4f06-b770-dda511ec956c)
 
-# 4产品价值&优势
+# 4产品价值和优势
 > 白菜GPT作为API转发服务，致力于满足您对OpenAI接口的个性化需求。我们的服务与官方直连接口相比，具备以下显著优势：
 ### 🌳 用 白菜GPT 你可以...
 
