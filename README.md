@@ -177,7 +177,8 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 
 
 >> gpt-4-32k | gpt-4-32k-0613 暂不支持
->> DALLE模型请求，参见[接口文档](https://doc.baicaigpt.com/api-153828334)
+>>
+>> 支持DALLE2/3模型，接口请求参见[说明文档](https://doc.baicaigpt.com/api-153828334)
 
 
 - "模型限流1000 RPH"中的RPH代表"Requests Per Hour"，即每小时请求数。因此，"模型限流1000 RPH"表示该模型在一小时内可以处理的请求数量上限为1000个。
