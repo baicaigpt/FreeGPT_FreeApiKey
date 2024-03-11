@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/><h1 align="center">白菜GPT | ChatGPT国内免费使用 | 无需魔法 | 无需充值 | 直接可用 </h1>
+<h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT | ChatGPT国内免费使用 | 无需魔法 | 无需充值 | 直接可用 </h1>
 
 注册会员立刻免费体验GPT4.0
 
 [快速开始]([https://chatgpt.nextweb.fun/](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c)) / [API文档](https://doc.baicaigpt.com/api-146134060) / [激活会员获取免费API_KEY](https://shop.baicaigpt.com/#/account) / [1元起充获取付费API_KEY](https://shop.baicaigpt.com/#/login?redirect=/wallet/recharge) 
 
+国内直连 | 无需代理 | 支持免费使用 GPT3.5 \ 4.0 | 支持DALL·E3 DALL·E2
 
 [web-url]: https://shop.baicaigpt.com/
 
 </div>
 
-## 国内直连 | 无需代理 | 支持免费使用 GPT3.5 \ 4.0 | 支持DALL·E3 DALL·E2
 
 [![banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/68818a5f-fa7e-4288-8df9-4059549aa86a)](https://shop.baicaigpt.com/#/account)
 
