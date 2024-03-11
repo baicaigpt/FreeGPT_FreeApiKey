@@ -9,7 +9,7 @@
 
 [激活会员获取免费API_KEY](https://doc.baicaigpt.com/doc-3675805) | [1元起充获取付费API_KEY](https://doc.baicaigpt.com/doc-3708694) 
 
-[支持GPT3.5\4.0](支持模型配额及价格) | [支持DALL·E3 DALL·E2](支持模型配额及价格)
+[支持GPT3.5\4.0](#支持模型配额及价格) | [支持DALL·E3 DALL·E2](#支持模型配额及价格)
 
 [web-url]: https://shop.baicaigpt.com/
 
