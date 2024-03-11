@@ -2,9 +2,11 @@
 
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT | ChatGPT国内免费使用 | 无需魔法 | 无需充值 | 直接可用 </h1>
 
-注册会员立刻免费体验GPT4.0
+注册会员立刻免费体验GPT3.5/GPT4.0
 
-[简介](#tab=readme-ov-file#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8) | [产品服务](#tab=readme-ov-file#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8) | [快速开始](https://github.com/chatanywhere/GPT_API_free?tab=readme-ov-file#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8) | [API文档](https://doc.baicaigpt.com/api-146134060) | [激活会员获取免费API_KEY](https://shop.baicaigpt.com/#/account) | [1元起充获取付费API_KEY](https://shop.baicaigpt.com/#/login?redirect=/wallet/recharge) 
+[简介](#简介) | [产品服务](#产品服务) | [快速开始](#快速开始) | [API帮助文档](https://doc.baicaigpt.com/api-146134060) | 产品价值&优势(#产品价值&优势) | 开发前必读(#开发前必读) | 常见问题及解决方法(#常见问题及解决方法)
+
+[激活会员获取免费API_KEY](https://shop.baicaigpt.com/#/account) | [1元起充获取付费API_KEY](https://shop.baicaigpt.com/#/login?redirect=/wallet/recharge) 
 
 [支持免费使用 GPT3.5\4.0 | 支持DALL·E3 DALL·E2](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c)
 
