@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT </h1> 
 <h1 align="center">ChatGPT国内免费使用 | 无需魔法 | 无需充值 | 直接可用 </h1>
 
-[注册会员](https://shop.baicaigpt.com/#/register)立刻领取免费GPT3.5/GPT4.0
+[注册会员](https://shop.baicaigpt.com/#/register)立刻免费领取GPT3.5/GPT4.0 API_KEY
 
 [简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API接口文档](https://doc.baicaigpt.com/api-146134060) | [产品价值&优势](#4产品价值和优势) | [开发前必读](#5开发前必读) | [常见问题及解决方法](#6常见问题及解决方法)
 
