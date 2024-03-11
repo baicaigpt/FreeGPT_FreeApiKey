@@ -11,8 +11,6 @@
 
 [支持GPT3.5\4.0](#支持模型配额及价格) | [支持DALL·E3 DALL·E2](#支持模型配额及价格)
 
-[web-url]: https://shop.baicaigpt.com/
-
 </div>
 
 
