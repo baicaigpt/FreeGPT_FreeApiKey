@@ -4,7 +4,7 @@
 
 注册会员立刻免费体验GPT3.5/GPT4.0
 
-[简介](#1简介)  /  [产品服务](#2 产品服务) | [快速开始](#3 快速开始) | [API帮助文档](https://doc.baicaigpt.com/api-146134060) | 产品价值&优势(#4 产品价值&优势) | 开发前必读(# 5 开发前必读) | 常见问题及解决方法(# 6 常见问题及解决方法)
+[简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API帮助文档](https://doc.baicaigpt.com/api-146134060) | 产品价值&优势(#4产品价值&优势) | 开发前必读(#5开发前必读) | 常见问题及解决方法(#6常见问题及解决方法)
 
 [激活会员获取免费API_KEY](https://shop.baicaigpt.com/#/account) | [1元起充获取付费API_KEY](https://shop.baicaigpt.com/#/login?redirect=/wallet/recharge) 
 
@@ -34,7 +34,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 > 
 > 浏览更多[帮助文档](https://doc.baicaigpt.com/)
 > 
-# 2 产品服务
+# 2产品服务
 ## 白菜GPT以会员服务的形式，提供免费及付费两种会员产品
 >白菜GPT致力于为您提供稳定、高效且免费的OpenAI API转发服务，让您畅享智能对话的乐趣！😊
 
@@ -71,7 +71,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 > [![qrcode_首页](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/ec4315cb-c2d4-4228-956f-f18ae8b02429)](https://shop.baicaigpt.com/)
 >
 > [图片说明：白菜GPT官网]
-# 3 快速开始
+# 3快速开始
 ## 三步获取白菜GPT免费API_KEY
 ### 第一步 扫码开通会员
 > 扫码[注册会员](https://shop.baicaigpt.com/#/account)，开通会员，免费赠送API_KEY
@@ -96,7 +96,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/37cdf619-4a13-4f06-b770-dda511ec956c)
 
-# 4 产品价值&优势
+# 4产品价值&优势
 > 白菜GPT作为API转发服务，致力于满足您对OpenAI接口的个性化需求。我们的服务与官方直连接口相比，具备以下显著优势：
 ### 🌳 用 白菜GPT 你可以...
 
@@ -134,7 +134,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
     `API_KEY:"baicai-xxxxxxxx"`
 
-# 5 开发前必读
+# 5开发前必读
 
 ## 支持模型配额及价格
 
@@ -246,7 +246,7 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 
 以上仅为白菜GPT转发API的错误码，正常情况不会返回，只会返回白菜GPT不做任何处理的OpenAI返回码，具体定义请阅[官方文档](https://platform.openai.com/docs/guides/error-codes/api-errors)
 
-# 6 常见问题及解决方法
+# 6常见问题及解决方法
 
 ## 白菜GPT的计费怎么计算的？
 > 白菜GPT计费真实可靠，采用OpenAI官方库TikToken来统计Token，统计结果与OpenAI官方Token一致，且是官方价格的7折左右。
