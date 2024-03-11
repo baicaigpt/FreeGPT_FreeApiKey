@@ -4,11 +4,11 @@
 
 注册会员立刻免费体验GPT3.5/GPT4.0
 
-[简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API帮助文档](https://doc.baicaigpt.com/api-146134060) | 产品价值&优势(#4产品价值&优势) | 开发前必读(#5开发前必读) | 常见问题及解决方法(#6常见问题及解决方法)
+[简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API接口文档](https://doc.baicaigpt.com/api-146134060) | [产品价值&优势](#4产品价值&优势) | [开发前必读](#5开发前必读) | [常见问题及解决方法](#6常见问题及解决方法)
 
-[激活会员获取免费API_KEY](https://shop.baicaigpt.com/#/account) | [1元起充获取付费API_KEY](https://shop.baicaigpt.com/#/login?redirect=/wallet/recharge) 
+[激活会员获取免费API_KEY](https://doc.baicaigpt.com/doc-3675805) | [1元起充获取付费API_KEY](https://doc.baicaigpt.com/doc-3708694) 
 
-[支持免费使用 GPT3.5\4.0 | 支持DALL·E3 DALL·E2](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c)
+[支持GPT3.5\4.0](支持模型配额及价格) | [支持DALL·E3 DALL·E2](支持模型配额及价格)
 
 [web-url]: https://shop.baicaigpt.com/
 
