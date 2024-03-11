@@ -4,7 +4,7 @@
 
 注册会员立刻免费体验GPT4.0
 
-[快速开始](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c) | [API文档](https://doc.baicaigpt.com/api-146134060) | [激活会员获取免费API_KEY](https://shop.baicaigpt.com/#/account) | [1元起充获取付费API_KEY](https://shop.baicaigpt.com/#/login?redirect=/wallet/recharge) 
+[简介](#tab=readme-ov-file#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8) | [产品服务](#tab=readme-ov-file#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8) | [快速开始](https://github.com/chatanywhere/GPT_API_free?tab=readme-ov-file#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8) | [API文档](https://doc.baicaigpt.com/api-146134060) | [激活会员获取免费API_KEY](https://shop.baicaigpt.com/#/account) | [1元起充获取付费API_KEY](https://shop.baicaigpt.com/#/login?redirect=/wallet/recharge) 
 
 [支持免费使用 GPT3.5\4.0 | 支持DALL·E3 DALL·E2](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c)
 
