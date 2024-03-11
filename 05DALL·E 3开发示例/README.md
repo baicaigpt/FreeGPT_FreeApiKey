@@ -2,7 +2,7 @@
 - 仅限付费会员支持，配额及价格请参见[文档](https://doc.baicaigpt.com/doc-3675731)。
 - 暂仅开放Create image创建图像
 - generations接口请求各项参数与官方一致，详细，请参考[官方文档](https://platform.openai.com/docs/api-reference/images/create)。
-- 示例代码均在colab上调试通过，仅需替换白菜GPT的API_KEY即可，参数说明请求，参见[接口文档](https://doc.baicaigpt.com/api-153828334)
+- 示例代码均在colab上调试通过，仅需替换白菜GPT的API_KEY即可，详细说明，参见[接口文档](https://doc.baicaigpt.com/api-153828334)
 # 更新日志
 ## 20240310 dall-e3-createimage示例
 >
