@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT </h1> 
+<h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT | 让AI普惠大众</h1> 
 <h1 align="center">ChatGPT国内免费使用 | 无需魔法 | 无需充值 | 直接可用 </h1>
 
 [注册会员](https://shop.baicaigpt.com/#/register)立刻免费领取GPT3.5/GPT4.0 API_KEY
