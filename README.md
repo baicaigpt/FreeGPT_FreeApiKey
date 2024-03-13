@@ -55,12 +55,12 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 白菜GPT免费API_KEY获取方法👉点击官网 [https://shop.baicaigpt.com](https://shop.baicaigpt.com) (拼音助记：白菜GPT) 免费注册会员即可获取白菜GPT的免费API_KEY，[支持微信支付，充值后自行升级为付费会员服务](https://doc.baicaigpt.com/doc-3708694)
 
 ## 免费会员
-> [![good_free](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/941e7e77-696c-4467-850f-8030b6943715)](https://shop.baicaigpt.com/#/account)
+>[![good_free](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/d7953d4f-0d45-40f4-a129-105b4d1c733e)](https://shop.baicaigpt.com/#/account)
 > 
 > 满足基本学习需求，适合低频使用场景。
 ## 付费会员
-> [![good_paid](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/d4a857a0-bb93-44df-9ff2-28385ab70eab)](https://shop.baicaigpt.com/#/account)
->
+>[![good_paid](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/c8f0d87e-ae5f-4c66-8308-b76bd50d631b)](https://shop.baicaigpt.com/#/account)
+> 
 > 满足专业工作需求,适合高频使用场景
 >
 > 更多服务详情，请浏览[白菜GPT官网](https://shop.baicaigpt.com/)
