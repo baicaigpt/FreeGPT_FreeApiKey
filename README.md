@@ -7,7 +7,7 @@
 
 [简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API接口文档](https://doc.baicaigpt.com/api-146134060) | [产品价值&优势](#4产品价值和优势) | [开发前必读](#5开发前必读) | [常见问题及解决方法](#6常见问题及解决方法)
 
-[激活会员获取免费API_KEY](https://doc.baicaigpt.com/doc-3675805) | [1元起充获取付费API_KEY](https://doc.baicaigpt.com/doc-3708694) 
+[激活会员获取免费API_KEY](https://doc.baicaigpt.com/doc-3675805) | [1元起充支持作者获取付费API_KEY](https://doc.baicaigpt.com/doc-3708694) 
 
 [支持GPT3.5\4.0](#支持模型配额及价格) | [支持DALL·E3 DALL·E2](#支持模型配额及价格)
 
