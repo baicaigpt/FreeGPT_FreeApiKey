@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT | 让AI普惠大众</h1> 
-<h1 align="center">ChatGPT国内免费使用 | 无需魔法 | 无需充值 | 直接可用 </h1>
+<h1 align="center">ChatGPT国内免费使用 | 保真GPT4 | 无需魔法 | 无需充值 | 直接可用 </h1>
 
 [注册会员](https://shop.baicaigpt.com/#/register)立刻免费领取GPT3.5/GPT4.0 API_KEY
 
-[简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API接口文档](https://doc.baicaigpt.com/api-146134060) | [产品价值&优势](#4产品价值和优势) | [开发前必读](#5开发前必读) | [常见问题及解决方法](#6常见问题及解决方法)
+[简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API接口文档](https://doc.baicaigpt.com/api-146134060) | [产品价值&优势](#4产品价值和优势) | [支持模型配额及清单](#5开发前必读) | [常见问题及解决方法](#6常见问题及解决方法)
 
 [无需付费注册免费会员直接使用ChatGPT](https://doc.baicaigpt.com/doc-3675805) | [1元起充发展升级付费会员支持项目长期发展](https://doc.baicaigpt.com/doc-3708694) 
 
