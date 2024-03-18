@@ -19,9 +19,14 @@
 
 [![1_banner](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/92a46644-ee63-4258-980f-bb4970300f6a)](https://www.bilibili.com/video/BV1nv421r7mB/?share_source=copy_web&vd_source=4c352464975339d04ef4b24f530ceb6b)
 
-## 免费使用视频教程👇
+## 视频教程👇
+>免费使用ChatGPT
 
 https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4580-9895-dc9defc2b9d4
+
+>Dall-E-3 绘图大师
+
+https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-41d9-985b-65b2562062bd
 
 ## 🌟 欢迎使用白菜GPT！🌟 详细产品介绍，请查阅[帮助文档](https://doc.baicaigpt.com/)
 # 1简介
@@ -326,11 +331,11 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 > >
 > >支持创建图像接口[示例代码](https://github.com/baicaigpt/FreeGPT_FreeApiKey/tree/main/05DALL%C2%B7E%203%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B)
 > >
-> >[DALL-E3能力首图](https://github.com/baicaigpt/FreeGPT_FreeApiKey/tree/main/05DALL%C2%B7E%203%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B)
-> >![img-gd2VLpsJ5T2rlBygQlXt9VTh](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/6471973f-2e1a-4b03-893d-b0e8a6bef965)
-> >
 > >补充相应返回码
-> 
+>
+> 20240318
+> >白菜GPT-[绘图大师](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-41d9-985b-65b2562062bd)上线
+> >
 # 🌟 如果你喜欢 白菜GPT 的话，就请给一个 Star 吧！🌟.
  ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e)
  > 应无所住而生其心
