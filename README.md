@@ -85,7 +85,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 > [图片说明：我的KEY]
 
 ### 第三步 应用"API_KEY"
-> 可复制API_KEY至您所需位置(记得同时修改API_BASE)，具体API_KEY用法，可[查看教程](https://baicaigpt.com/category/tutorial/application)，持续关注本项目，将在本项目[GitHub](https://github.com/baicaigpt/FreeGPT_FreeApiKey)开源教程不定期更新，以帮助大家第一时间使用白菜GPT提供的中转API_KEY获取更好的应用体验。
+> 可复制API_KEY至您所需位置(记得同时修改API_BASE)，具体API_KEY用法，可[查看教程](https://doc.baicaigpt.com/doc-3711097)，持续关注本项目，将在本项目[GitHub](https://github.com/baicaigpt/FreeGPT_FreeApiKey)开源教程不定期更新，以帮助大家第一时间使用白菜GPT提供的中转API_KEY获取更好的应用体验。
 >
 > 记得点个Star🌟，分享身边更多伙伴知道白菜GPT，作者手动比心。
 >
@@ -227,15 +227,15 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 | 返回码 | 说明 |
 | --- | --- |
 | -1 | 原因：系统繁忙，我们的服务器流量过载或其他内部异常。<br>解决方案：稍等片刻后重试您的请求，如果问题仍然存在，请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40001 | 原因：请求的API_KEY不正确。<br>解决方案：请开发者认真比对获取到的API_KEY的正确性，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
-| 41001 | 原因：缺少API_KEY参数<br>解决方案：请开发者认真检查Header参数包含Authorization，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
-| 40038 | 原因：Authorization参数格式不正确<br>解决方案：请开发者认真检查Header的Authorization参数格式为Bearer baicai-xxxxxxxx，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
-| 40039 | 原因：请求参数不能为空<br>解决方案：请检查是否正常发送请求消息，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) ，如问题仍然存在，请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40001 | 原因：请求的API_KEY不正确。<br>解决方案：请开发者认真比对获取到的API_KEY的正确性，示例代码请参阅[开发教程文档](https://doc.baicaigpt.com/doc-3711097)  |
+| 41001 | 原因：缺少API_KEY参数<br>解决方案：请开发者认真检查Header参数包含Authorization，示例代码请参阅[开发教程文档](https://doc.baicaigpt.com/doc-3711097)  |
+| 40038 | 原因：Authorization参数格式不正确<br>解决方案：请开发者认真检查Header的Authorization参数格式为Bearer baicai-xxxxxxxx，示例代码请参阅[开发教程文档](https://doc.baicaigpt.com/doc-3711097)  |
+| 40039 | 原因：请求参数不能为空<br>解决方案：请检查是否正常发送请求消息，示例代码请参阅[开发教程文档](https://doc.baicaigpt.com/doc-3711097) ，如问题仍然存在，请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
 | 40243 | 原因：API_KEY已被冻结<br>解决方案：请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)申请解冻后再次调用。 |
 | 45011 | 原因：API 调用太频繁<br>解决方案：请稍候再试 |
 | 48001 | 原因：请求模型暂未支持<br>解决方案：可在[所支持模型](https://doc.baicaigpt.com/doc-3675731)中查看已支持模型，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 48002 | 原因：请求模型未知，除Models接口外，其他接口请求参数均需填写model字段<br>解决方案：请检查请求体内容是否遗漏model参数，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) 。 |
-| 48004 | 原因：API接口暂未支持，请确保请求API地址不要重复添加v1<br>解决方案：白菜GPT已开放接口参见API接口文档，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) ，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。|
+| 48002 | 原因：请求模型未知，除Models接口外，其他接口请求参数均需填写model字段<br>解决方案：请检查请求体内容是否遗漏model参数，示例代码请参阅[开发教程文档](https://doc.baicaigpt.com/doc-3711097) 。 |
+| 48004 | 原因：API接口暂未支持，请确保请求API地址不要重复添加v1<br>解决方案：白菜GPT已开放接口参见API接口文档，示例代码请参阅[开发教程文档](https://doc.baicaigpt.com/doc-3711097) ，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。|
 | 48005 | 原因：免费会员不支持流式请求(内测期间支持)<br>解决方案：请完成充值，升级为付费会员后继续重新请求。 |
 | 40020 | 原因：免费会员gpt3.5请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
 | 40021 | 原因：免费会员gpt4请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
@@ -305,7 +305,7 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 >这个配额对普通应用、功能测试和概念验证来说已经足够了，如需更多频次，请考虑付费会员。
 
 ## 我用GPT4问模型的名字，为什么告诉不是GPT4，白菜不是支持GPT4么？
-> GPT的回答是基于语料库的，GPT-4 的训练语料库还停留在2021 年9 月之前，所以它回答不了是GPT4，不过你可以看下[示例代码](https://baicaigpt.com/159.html)
+> GPT的回答是基于语料库的，GPT-4 的训练语料库还停留在2021 年9 月之前，所以它回答不了是GPT4，不过你可以看下[示例代码](https://doc.baicaigpt.com/doc-3711097)
 
 > 执行的返回结果，请求的是GPT4，返回内容里会明确用到的模型，是GPT4无误的
 > 
