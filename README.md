@@ -265,7 +265,8 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 >
 ## GPT4为什么这么贵
 > OpenAI ChatGPT API是收费的，不同模型（如GPT-3.5、GPT-4.0等）的收费标准不一样，到GPT-4 API价格几乎是GPT-3.5 API价格的20倍，以下是OpenAI官方的API价格。(官方可能会变更收费标准，具体以实际为准)
->![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/e98dda97-2653-4e64-96af-8815bdc232e5)
+> 
+> <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/e98dda97-2653-4e64-96af-8815bdc232e5" width = "500" alt="baicaigpt.com" align=center />
 
 
 ## 是否有必要选择GPT4模型
@@ -277,11 +278,13 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 
 ## 是否支持流式请求？
 > 为便于大家使用ChatGPT三方软件，内测期间，免费用户及付费用户均支持流式请求，内测结束后，仅付费会员支持流式请求，请求及返回结果参考如下
-> <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/66716ffa-5311-4588-b6b1-d9f2ecb160d3" width = "300" alt="baicaigpt.com" align=center />
+> 
+> <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/66716ffa-5311-4588-b6b1-d9f2ecb160d3" width = "500" alt="baicaigpt.com" align=center />
 
 
 ## 在用三方客户端产品的时候返回空消息怎么办？
-> <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/eba04e42-ee1d-4748-b7a1-5d8d69f59333" width = "300" alt="baicaigpt.com" align=center />
+>
+> <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/eba04e42-ee1d-4748-b7a1-5d8d69f59333" width = "500" alt="baicaigpt.com" align=center />
 >
 >如上图所示，在用白菜API配置的三方客户端应用（例如LobeChat）过程中无法获得有效返回。
 >
@@ -305,7 +308,8 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 > GPT的回答是基于语料库的，GPT-4 的训练语料库还停留在2021 年9 月之前，所以它回答不了是GPT4，不过你可以看下[示例代码](https://baicaigpt.com/159.html)
 
 > 执行的返回结果，请求的是GPT4，返回内容里会明确用到的模型，是GPT4无误的
-> <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/1de0511c-c16a-4dbe-97d6-934e00b7ecb5" width = "300" alt="baicaigpt.com" align=center />
+> 
+> <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/1de0511c-c16a-4dbe-97d6-934e00b7ecb5" width = "500" alt="baicaigpt.com" align=center />
 
 # 7 帮助文档
 > To check out the documentation, visit
