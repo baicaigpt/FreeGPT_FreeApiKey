@@ -29,7 +29,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 > 
 > [注册会员 领取免费API_KEY](https://shop.baicaigpt.com/#/account),内测期间，每天限30名免费会员注册,能注册就能领取
 
-<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/ec67dba9-c913-46c2-aa20-ed6486d56786" width = "300" alt="baicaigpt.com" align=center />
+<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/aab2bfc2-24e2-4ae9-9bb4-d4dfb66b7a1c" width = "300" alt="baicaigpt.com" align=center />
 
 > 
 > 浏览更多[帮助文档](https://doc.baicaigpt.com/)
