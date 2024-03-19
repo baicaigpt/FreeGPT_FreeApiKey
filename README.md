@@ -29,7 +29,10 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 > 
 > [注册会员 领取免费API_KEY](https://shop.baicaigpt.com/#/account),内测期间，每天限30名免费会员注册,能注册就能领取
 
-<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/aab2bfc2-24e2-4ae9-9bb4-d4dfb66b7a1c" width = "300" alt="baicaigpt.com" align=center />
+| 首页 |会员中心 |
+| --- | --- |
+|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/aab2bfc2-24e2-4ae9-9bb4-d4dfb66b7a1c" width = "300" alt="baicaigpt.com" align=center />|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/1484a458-cec8-4a2b-9ea3-a6a3507f8406" width = "300" alt="baicaigpt.com" align=center />|
+
 
 > 
 > 浏览更多[帮助文档](https://doc.baicaigpt.com/)
@@ -333,6 +336,8 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 > 20240318
 > >白菜GPT-[绘图大师](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-41d9-985b-65b2562062bd)上线
 > >
+> 20240318
+> >随便聊聊 自媒体高手 发布上线
 # 🌟 如果你喜欢 白菜GPT 的话，就请给一个 Star 吧！🌟.
  <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e" width = "300" alt="Star" align=center />
  
