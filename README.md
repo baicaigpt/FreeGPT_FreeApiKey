@@ -15,11 +15,15 @@
 
 
 ## 视频教程👇
->免费使用ChatGPT
+### 白菜GPT-AI聊天-AI绘画-奶奶看了都会用
+
+https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/1a452a80-7907-402c-bf8c-18ee278e805e
+
+### 白菜GPT-免费使用LobeChat
 
 https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4580-9895-dc9defc2b9d4
 
->Dall-E-3 绘图大师
+### 白菜GPT-Dall-E-3 绘图大师
 
 https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-41d9-985b-65b2562062bd
 
