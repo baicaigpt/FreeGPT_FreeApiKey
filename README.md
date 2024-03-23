@@ -338,7 +338,7 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 > >
 > 20240318
 > >随便聊聊 自媒体高手 发布上线
-# 🌟 如果你喜欢 白菜GPT 的话，就请给我们一个 Star 吧！🌟.
+### 🌟 如果你喜欢 白菜GPT 的话，就请给我们一个 Star 吧！🌟.
  <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e" width = "300" alt="Star" align=center />
  
  > 诸恶莫作 众善奉行
