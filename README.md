@@ -7,6 +7,7 @@
 
 🐟[无需付费立即使用白菜GPT](https://doc.baicaigpt.com/doc-3675805) | 💕[1元起充支持白菜GPT](https://doc.baicaigpt.com/doc-3708694) 
 
+**不提供免费会员技术支持**。由于免费会员是无偿提供，因此白菜GPT不提供免费会员的技术支持或使用指导。如您使用中遇到问题，请[帮助手册](https://doc.baicaigpt.com/)。
 </div>
 
 
