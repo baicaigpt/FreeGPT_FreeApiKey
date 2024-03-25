@@ -171,7 +171,6 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 
 | 模型 | 请求价格 | 回答价格| 免费会员限速|免费会员是否支持|付费会员限速|付费会员是否支持 | 
 | --- | --- | --- | --- | --- | --- | --- |
-|gpt-3.5-turbo-0125 | 0.01/1K Tokens | 0.01/1K Tokens | 5 RPH | ✅ | 1000 RPH | ✅ | 
 |gpt-3.5-turbo | 0.01/1K Tokens | 0.01/1K Tokens | 5 RPH | ✅ | 1000 RPH | ✅ | 
 | gpt-3.5-turbo-1106 | 0.01/1K Tokens | 0.01/1K Tokens | 5 RPH | ✅ | 1000 RPH | ✅ | 
 | gpt-3.5-turbo-0613 | 0.01/1K Tokens | 0.01/1K Tokens | 5 RPH | ✅ | 1000 RPH | ✅ | 
