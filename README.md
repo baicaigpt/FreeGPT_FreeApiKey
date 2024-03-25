@@ -41,7 +41,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 ## 白菜GPT以会员服务的形式，提供免费及付费两种会员产品
 >白菜GPT致力于为您提供稳定、高效且免费的OpenAI API转发服务，让您畅享智能对话的乐趣！😊
 
-如果您是国内个人用户，受限于OpenAI对国内IP的访问限制而无法使用，同时对OpenAI的API接口有每小时小于60次的对话请求需求，那么白菜GPT的[免费会员服务](https://doc.baicaigpt.com/doc-3675805)正是您的理想选择。
+如果您是国内个人用户，受限于OpenAI对国内IP的访问限制而无法使用，同时对OpenAI的API接口有每小时小于5次的对话请求需求，那么白菜GPT的[免费会员服务](https://doc.baicaigpt.com/doc-3675805)正是您的理想选择。
 
 而对于商业用户或个人用户，如果您希望获得每小时1000次的请求次数及更加稳定的产品服务，那么不妨考虑使用白菜GPT的[付费会员服务](https://doc.baicaigpt.com/doc-3708694)，让您的体验更上一层楼！
 
@@ -108,10 +108,10 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 
 >**无时间限制，API密钥长期可用**： 您的API密钥（Key）在我们平台上没有使用时间限制，确保您可以随时随地使用OpenAI的语言处理能力，
 >> 📌
->>据白菜GPT的客户评估，充值30元，基本可满足个人用户1年工作学习使用，建议您先1-2元小额充值试用，满意后[进行更多充值](https://doc.baicaigpt.com/doc-3708694#%E8%8E%B7%E5%8F%96%E6%AD%A5%E9%AA%A4)。
+>>据白菜GPT的客户评估，充值30元，基本可满足个人用户1年工作学习使用，建议您先小额充值试用，满意后[进行更多充值](https://doc.baicaigpt.com/doc-3708694#%E8%8E%B7%E5%8F%96%E6%AD%A5%E9%AA%A4)。
 
 
->**便捷支付，不限最低充值金额**：支持微信支付，1元起充，且按量付费，您完全可以充值1、2块钱测出是否满足自己需求，然后再决定是否进行更多的充值。
+>**便捷支付，不限最低充值金额**：支持微信支付，5元起充，且按量付费，您完全可以小额试用测出是否满足自己需求，然后再决定是否进行更多的充值。
 
 >**国内直连，无需科学上网**： 国内环境直接可用，白菜GPT通过国内直连和动态加速技术，我们的转发服务无需额外工具，比用工具连接OpenAI更为稳定，延时更低。 
 
@@ -121,7 +121,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 
 >**支持GPT4，获取多种模型能力**： 支持Models, GPT-3.5-Turbo, GPT-3.5-Turbo-16K(免费版支持), GPT-4，GPT-4 Turbo，DALL·E 3，DALL·E 2等，详情请参阅文档[模型清单](https://doc.baicaigpt.com/doc-3675731)。 
 
->**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流60次请求/小时/KEY&IP调用频率，10K Token/小时，GPT4由于价格过高，每小时限制1次调用，1K Token/小时，内测期间，支持流式请求。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
+>**可免费使用，个人用户免费**：免费会员API_KEY，GPT3.5限流5次请求/小时/KEY&IP调用频率，10K Token/小时，GPT4由于价格过高，每小时限制1次调用，1K Token/小时，内测期间，支持流式请求。[免费会员](https://doc.baicaigpt.com/doc-3675805)相对慢一些，付费会员更稳定，且限速更高。
 
 >**可商业使用，获取商用能力**：付费会员API_KEY，GPT3.5限流提升至1000次请求/小时/KEY&IP调用频率，GPT4限流提升至200次请求/小时/KEY&IP，内测期间支持流式请求，建议[获取低价付费API KEY](https://doc.baicaigpt.com/doc-3708694)，商用支持模型、接口及请求频率定制需求，可[联系客服](https://shop.baicaigpt.com/#/support)。
 
@@ -147,7 +147,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 📌
 **免费会员API KEY**
 > - 价格：免费
-> - 频率限制：GPT3.5 限 60次请求/小时/IP&KEY的请求频率，GPT4 限 1次请求/小时/IP&KEY请求频率。
+> - 频率限制：GPT3.5 限 5次请求/小时/IP&KEY的请求频率，GPT4 限 1次请求/小时/IP&KEY请求频率。
 > - Token限制：GPT3.5 限 10K Tokens/小时/IP&KEY，GPT4 限 1K Tokens /小时/IP&KEY。
 
 
@@ -171,10 +171,10 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 
 | 模型 | 请求价格 | 回答价格| 免费会员限速|免费会员是否支持|付费会员限速|付费会员是否支持 | 
 | --- | --- | --- | --- | --- | --- | --- |
-|gpt-3.5-turbo-0125 | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
-|gpt-3.5-turbo | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
-| gpt-3.5-turbo-1106 | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
-| gpt-3.5-turbo-0613 | 0.01/1K Tokens | 0.01/1K Tokens | 60 RPH | ✅ | 1000 RPH | ✅ | 
+|gpt-3.5-turbo-0125 | 0.01/1K Tokens | 0.01/1K Tokens | 5 RPH | ✅ | 1000 RPH | ✅ | 
+|gpt-3.5-turbo | 0.01/1K Tokens | 0.01/1K Tokens | 5 RPH | ✅ | 1000 RPH | ✅ | 
+| gpt-3.5-turbo-1106 | 0.01/1K Tokens | 0.01/1K Tokens | 5 RPH | ✅ | 1000 RPH | ✅ | 
+| gpt-3.5-turbo-0613 | 0.01/1K Tokens | 0.01/1K Tokens | 5 RPH | ✅ | 1000 RPH | ✅ | 
 | gpt-3.5-turbo-16k |  0.015/1K Tokens | 0.015/1K Tokens | -- | ❌ | 1000 RPH | ✅ | 
 | gpt-3.5-turbo-16k-0613 | 0.015/1K Tokens| 0.015/1K Tokens | -- | ❌ | 1000 RPH | ✅ | 
 | gpt-4-0125-preview | 0.3/1K Tokens| 0.3/1K Tokens | 1 RPH | ✅ | 200 RPH| ✅ | 
@@ -299,7 +299,7 @@ OpenAI 根据 token 数收费，1000 个 token 通常可代表 750 个英文单�
 >
 >GPT3.5
 >>10k tokens / 小时（总对话字数约5000字中文）
->>60 次请求 / 小时
+>>5 次请求 / 小时
 >
 >GPT4
 >>1k tokens / 小时（总对话字数约500字中文）
