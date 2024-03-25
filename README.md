@@ -5,7 +5,7 @@
 
 [简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API接口文档](https://doc.baicaigpt.com/api-146134060) | [产品价值&优势](#4产品价值和优势) | [支持模型配额及清单](#5开发前必读) | [常见问题及解决方法](#6常见问题及解决方法)
 
-🐟[无需付费立即使用白菜GPT](https://doc.baicaigpt.com/doc-3675805) | 💕[1元起充支持白菜GPT](https://doc.baicaigpt.com/doc-3708694) 
+🐟[无需付费立即使用白菜GPT](https://doc.baicaigpt.com/doc-3675805) | 💕[5元起充支持白菜GPT](https://doc.baicaigpt.com/doc-3708694) 
 
 </div>
 
@@ -31,7 +31,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 
 | 首页 |会员中心 |
 | --- | --- |
-|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/aab2bfc2-24e2-4ae9-9bb4-d4dfb66b7a1c" width = "300" alt="baicaigpt.com" align=center />|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/1484a458-cec8-4a2b-9ea3-a6a3507f8406" width = "300" alt="baicaigpt.com" align=center />|
+|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/bc19aefc-1930-4b9f-aedc-a05ca42d4c44" width = "300" alt="baicaigpt.com" align=center />|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/1484a458-cec8-4a2b-9ea3-a6a3507f8406" width = "300" alt="baicaigpt.com" align=center />|
 
 
 > 
@@ -60,7 +60,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 
 | 免费会员 |付费会员 |
 | --- | --- |
-|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/d7953d4f-0d45-40f4-a129-105b4d1c733e" width = "300" alt="baicaigpt.com" align=center />|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/c8f0d87e-ae5f-4c66-8308-b76bd50d631b" width = "300" alt="baicaigpt.com" align=center />|
+|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/db92117d-102c-4282-9af0-e7946848b5b7" width = "300" alt="baicaigpt.com" align=center />|<img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/c8f0d87e-ae5f-4c66-8308-b76bd50d631b" width = "300" alt="baicaigpt.com" align=center />|
 | 满足基本学习需求，适合低频使用场景。 | 满足专业工作需求,适合高频使用场景 |
 >
 > 更多服务详情，请浏览[白菜GPT官网](https://shop.baicaigpt.com/)
