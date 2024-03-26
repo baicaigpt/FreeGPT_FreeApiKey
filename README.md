@@ -2,9 +2,6 @@
 
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT | 让AI普惠大众</h1> 
 
-
-[简介](#1简介) | [产品服务](#2产品服务) | [快速开始](#3快速开始) | [API接口文档](https://doc.baicaigpt.com/api-146134060) | [产品价值&优势](#4产品价值和优势) | [支持模型配额及清单](#5开发前必读) | [常见问题及解决方法](#6常见问题及解决方法)
-
 🐟[无需付费立即使用白菜GPT](https://doc.baicaigpt.com/doc-3675805) | 💕[5元起充升级付费会员](https://doc.baicaigpt.com/doc-3708694) 
 
 </div>
