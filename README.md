@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT | 让AI普惠大众</h1> 
+<h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT | 长期稳定提供GPT3.5/4.0 API转发服务</h1> 
 
 🐟[无需付费立即使用白菜GPT](https://doc.baicaigpt.com/doc-3675805) | 💕[5元起充升级付费会员](https://doc.baicaigpt.com/doc-3708694) 
 
