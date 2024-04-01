@@ -26,6 +26,8 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 > 
 > [注册会员 领取免费API_KEY](https://shop.baicaigpt.com/#/account),内测期间，每天限30名免费会员注册,能注册就能领取
 > 
+> ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/5d6aa4d0-8900-45d1-862a-c7740b69a7cc)
+
 > 浏览更多[帮助文档](https://doc.baicaigpt.com/)
 > 
 # 2产品服务
