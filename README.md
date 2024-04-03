@@ -60,7 +60,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 
 转发KEY的价格为OpenAI官方价格的7-8折，白菜GPT致力于不断增加[支持模型种类提升配额及降低价格](https://doc.baicaigpt.com/doc-3675731)，致力于打造国内低价GPT使用最佳实践，目前支持包括GPT4在内的绝大部分OpenAI大语言模型的接口调用。提供更灵活、可定制、低价的OpenAI接口转发服务。
 
-白菜GPT免费API_KEY获取方法👉点击官网 [https://shop.baicaigpt.com](https://shop.baicaigpt.com) (拼音助记：白菜GPT) 免费注册会员即可获取白菜GPT的免费API_KEY，[支持微信支付，充值后自行升级为付费会员服务](https://doc.baicaigpt.com/doc-3708694)
+白菜GPT免费API_KEY获取方法👉点击官网 [https://baicaigpt.com](https://baicaigpt.com) (拼音助记：白菜GPT) 免费注册会员即可获取白菜GPT的免费API_KEY，[支持微信支付，充值后自行升级为付费会员服务](https://doc.baicaigpt.com/doc-3708694)
 >
 > 更多服务详情，请浏览[白菜GPT官网](https://shop.baicaigpt.com/)
 
