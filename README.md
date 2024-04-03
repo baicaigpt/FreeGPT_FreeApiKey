@@ -4,7 +4,7 @@
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 人工在线客服
 
-🐟[无需付费立即试用白菜GPT](https://doc.baicaigpt.com/doc-3675805) | 💕[5元起充升级付费会员](https://doc.baicaigpt.com/doc-3708694)  | 🌐[服务可用性](https://status.baicaigpt.com/status/api)
+🐟[无需付费立即试用白菜GPT](https://doc.baicaigpt.com/doc-3675805) | 💕[5元起充升级付费会员](https://doc.baicaigpt.com/doc-3708694)  | 🌐[API服务可用性](https://status.baicaigpt.com/status/api)
 
 </div>
 
