@@ -170,7 +170,7 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 >**请注意，针对免费会员白菜GPT的API的调用除了频次限制，还有tokens限制，付费会员上下文tokens限制与[官方一致](https://openai.com/pricing#language-models)：**
 >GPT3.5
 >>10k tokens / 小时（总对话字数约5000字中文）
->>1 次请求 / 小时
+>>2 次请求 / 小时
 
 >GPT4
 >>1k tokens / 小时（总对话字数约500字中文）
