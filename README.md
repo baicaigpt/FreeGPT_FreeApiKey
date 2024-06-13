@@ -188,7 +188,128 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 > To check out the documentation, visit
 > 
 > - [简体中文](https://doc.baicaigpt.com/)
-> 
+
+# 7客户端应用配置指南
+
+## ChatGPT.好友插件中的白菜GPT APIKEY设置
+为了在ChatGPT.好友插件中实现白菜GPT服务的配置，用户需要遵循以下步骤：
+
+1、获取APIKEY：在白菜GPT官方网站上注册，进入会员中心-我的key，获取到APIKEY。
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/200b6879-479c-4a82-8f8e-44f379650ec3)
+
+2、打开ChatGPT.好友插件：uTools安装完成后，搜索、获取并安装ChatGPT.好友插件
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/4e493274-aa54-4b88-b0c5-f7a1e12b22b8)
+
+3、进入设置：在插件界面中找到设置选项，进入配置页面，配置白菜GPTAPI地址及APIKEY。
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/f6696e55-fd68-494b-83dc-68ade652f787)
+
+
+4、配置APIKEY：将获取的APIKEY填入相应的输入框中，并保存设置。
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/3c001f87-1dcf-4d74-add1-0f5e3e4dbe8c)
+
+5、完成，开始AI对话
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/c496543f-1ecc-4cf9-9c97-9dd4634478e4)
+
+## Zotero 让人工智能助力你的文档阅读之旅
+
+安装Zotero
+1、下载客户端及GPT插件。
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/f28bebc0-2647-414e-b5b7-c98bd22571bb)
+
+
+百度网盘（Zotero客户端及GPT插件）：
+
+链接：https://pan.baidu.com/s/15uE5zFyCx1tIZPv1a5_2ig?pwd=wdht
+
+提取码：wdht
+
+2、安装客户单及GPT插件
+
+安装好Zotero后，打开，在菜单栏选择：工具->附件组件
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/c8425bdc-7a0c-4c20-b521-182092616c67)
+
+
+在弹出的窗口中点击右上角齿轮图标，在弹出菜单中选择 “Install Add-on From File...”。
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/7257e259-9aca-4b04-b6bb-8ff2045f5d0d)
+
+
+选择下载的zero-gpt插件，注意插件文件的后缀为xpi
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/716f23c2-a8cd-4d29-b3aa-65e8bd109b6a)
+
+
+弹窗窗口点击Install Now
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/74e4586c-a722-43ca-9725-70662829fa03)
+
+完成插件安装
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/14e818f8-2223-4ad0-84f5-97310e12d7e7)
+
+
+获取APIKEY
+在白菜GPT平台上注册账号，获取OpenAI的中转APIKEY。
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/7420ce0c-0500-441e-8798-8a48d46bbf5a)
+
+
+整合Zotero与GPT
+利用白菜GPT提供的APIKEY，将Zotero中的文献资料通过API发送给GPT进行处理。
+
+1、点击编辑-首选项
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/e7a37a60-d96d-4c72-9d0f-a3cca08c4312)
+
+
+2、点击高级-编辑器
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/109a6dfc-0da3-4434-8d55-2ec1d2ed6b65)
+
+
+3、搜索GPT，配置您从白菜GPT获取到的APIKEY，注意api配置如下
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/f61ca71f-ed0c-451b-80e4-9cb6179795f1)
+
+
+4、配置完成后点击OK保存配置
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/bf16f338-88c8-4774-b6f3-3d79ebad38b9)
+
+收集文献资料
+使用Zotero收集和管理你需要的文献资料，可以通过手动添加或使用浏览器插件自动添加。
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cb3045d6-c317-457d-bb78-4507d639a855)
+
+
+智能化阅读
+按Ctrl+/ 或点击按钮，呼出GPT对话框，至此，即完成，利用GPT生成的摘要和关键信息快速浏览文献，决定是否需要深入阅读。
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/1b8bb7a5-5a7c-4901-8fc5-a5095e35255d)
+
+
+zotero-gpt的核心在于标签，掌握好标签，你就掌握了这款插件。例如，Selection标签，选定内容解读，当精读一篇文章时，如果某段没有看太明白，可以选中内容，唤起gpt，点击Selection标签，解释所选的内容
+
+![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/5dce64c7-06b4-4bd4-85bc-23b4470e05fa)
+
+
+结语
+Zotero与GPT的结合，不仅能够提升文献阅读的效率，还能够通过智能化的处理，帮助用户更好地理解和分析文档内容。通过本文的介绍，希望你能掌握这一高效的工作流程，让人工智能成为你学术研究和知识管理的得力伙伴。
+
+# 8免费镜像网站：
+
+PC端，请访问 https://lobechat.baicaigpt.com
+
+移动端，请访问 https://shop.baicaigpt.com/#/lobechat
+
+镜像使用视频教程：https://www.bilibili.com/video/BV1Sp421U7zL
 
 ### 🌟 如果你喜欢 白菜GPT 的话，就请给我们一个 Star 吧！🌟.
  <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e" width = "300" alt="Star" align=center />
