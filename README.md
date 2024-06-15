@@ -189,9 +189,68 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 > 
 > - [简体中文](https://doc.baicaigpt.com/)
 
-# 7客户端应用配置指南
+# 7应用支持与API使用说明
 
-## ChatGPT.好友插件中的白菜GPT APIKEY设置
+支持应用：理论上，所有自定义API地址的GPT应用都受支持。以下是一些推荐应用。
+
+> 不同的客户端需要填写不同的BASE_URL, 请尝试如下地址，如不知怎么用，请看下面教程：
+> https://api.baicaigpt.com
+> https://api.baicaigpt.com/v1
+> https://api.baicaigpt.com/v1/chat/completions
+
+## 推荐应用列表
+### ChatGPT.好友插件
+
+功能：AI聊天、绘画、语音对话等；支持多API和多key管理。
+特点：桌面端专用，不支持移动端。
+
+### ChatGPT-Midjourney
+
+类型：开源web聊天工具，仅支持聊天。
+特点：支持Midjourney对话的二开版本。
+
+### Lobe-chat
+
+类型：开源聊天应用，支持聊天、绘画、语音对话。
+
+### BotGem
+
+类型：非开源工具，支持PC和移动端。
+特点：功能单一，仅聊天，但适配多端。
+
+### ChatBox
+
+类型：支持桌面端APP和web版。
+
+### FastGPT
+
+特点：支持知识库的聊天应用。
+绑定与配置方法
+通用绑定方法：在应用设置中填写API地址https://api.baicaigpt.com后接apikey。
+
+### 官方库使用示例
+Python库：使用openai库时，设置base_url和api_key，并注意添加/v1/后缀。
+
+openai.api_key = "您的APIKEY baicai-XXX"
+openai.base_url = "https://api.baicaigpt.com/v1/"
+// 示例代码省略...
+
+Node库：使用openai-node库时，配置Configuration对象的apiKey和basePath。
+
+const configuration = new Configuration({
+  apiKey: "您的APIKEY baicai-XXX",
+  basePath: "https://api.baicaigpt.com/v1"
+});
+// 示例代码省略...
+
+注意事项
+确保使用最新版本的官方库。
+老版本库的参数格式可能不同，请参考官方文档。
+
+
+
+
+### ChatGPT.好友插件详细教程
 为了在ChatGPT.好友插件中实现白菜GPT服务的配置，用户需要遵循以下步骤：
 
 1、获取APIKEY：在白菜GPT官方网站上注册，进入会员中心-我的key，获取到APIKEY。
@@ -215,7 +274,7 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 
 ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/c496543f-1ecc-4cf9-9c97-9dd4634478e4)
 
-## Zotero 让人工智能助力你的文档阅读之旅
+## Zotero客户端及GPT插件详细教程
 
 安装Zotero
 1、下载客户端及GPT插件。
