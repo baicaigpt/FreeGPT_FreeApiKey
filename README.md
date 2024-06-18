@@ -263,9 +263,6 @@ const configuration = new Configuration({
 
 3、进入设置：在插件界面中找到设置选项，进入配置页面，配置白菜GPTAPI地址及APIKEY。
 
-![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/f6696e55-fd68-494b-83dc-68ade652f787)
-
-
 4、配置APIKEY：将获取的APIKEY填入相应的输入框中，并保存设置。
 
 ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/3c001f87-1dcf-4d74-add1-0f5e3e4dbe8c)
