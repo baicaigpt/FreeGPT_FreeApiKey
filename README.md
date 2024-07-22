@@ -361,11 +361,21 @@ Zotero与GPT的结合，不仅能够提升文献阅读的效率，还能够通�
 
 # 8免费镜像网站：
 
-PC端，请访问 https://lobechat.baicaigpt.com
+一、LobeChat （35K+ star!即刻拥有你的私人 ChatGPT的项目）
+PC端/移动端，请访问 [https://lobechat.baicaigpt.com](https://lobechat.baicaigpt.com)
 
-移动端，请访问 https://shop.baicaigpt.com/#/lobechat
+![image](https://github.com/user-attachments/assets/98054220-e7bb-4f74-b7dc-82637eef60f1)
 
-镜像使用视频教程：https://www.bilibili.com/video/BV1Sp421U7zL
+
+镜像使用视频教程：https://www.bilibili.com/video/BV1nv421r7mB/
+
+二、NextChat（70K+ star！马上拥有跨平台 ChatGPT 应用：ChatGPT-Next-Web）
+PC端/移动端，请访问 [https://nextchat.baicaigpt.com](https://nextchat.baicaigpt.com)
+
+![image](https://github.com/user-attachments/assets/e2f2b909-527b-44e8-b9f7-fb2654d08250)
+
+
+
 
 ### 🌟 如果你喜欢 白菜GPT 的话，就请给我们一个 Star 吧！🌟.
  <img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/cede25ae-5a95-43e4-ac46-c5ca3dada31e" width = "300" alt="Star" align=center />
