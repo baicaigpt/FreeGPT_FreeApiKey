@@ -1,3 +1,5 @@
+# 此版本需手机号注册且秘钥非SK开头，如需免手机号注册及SK开头，请移步[免手机注册版白菜GPT](https://github.com/baicaigpt/OPENAI_FAST_APIKEY)，最低官方7折定价，体验更简单便捷
+
 <div align="center">
 
 <h1 align="center"><img src="https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/41034027-a9fc-43f2-a7cf-ab1860d02b1c" alt="icon"/>白菜GPT | 长期稳定提供GPT3.5/4.0 API转发服务</h1> 
