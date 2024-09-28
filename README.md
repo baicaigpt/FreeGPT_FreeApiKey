@@ -1,4 +1,4 @@
-# 此版本需手机号注册且秘钥非SK开头，如需免手机号注册及SK开头，请移步[免手机注册版白菜GPT](https://github.com/baicaigpt/OPENAI_FAST_APIKEY)，最低官方7折定价，体验更简单便捷
+# 此版本需手机号注册且秘钥非SK开头，如需免手机号注册及SK开头，请移步[免手机注册版白菜GPT](https://github.com/baicaigpt/OPENAI_FAST_APIKEY)，最低官方7折定价，1元起售，体验更简单便捷
 
 <div align="center">
 
