@@ -181,8 +181,7 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 
 ## 我用GPT4问模型的名字，为什么告诉不是GPT4，白菜不是支持GPT4么？
 > GPT的回答是基于语料库的，GPT-4 的训练语料库还停留在2021 年9 月之前，所以它回答不了是GPT4，不过你可以看下[示例代码](https://baicaigpt.com/159.html)
-> 执行的返回结果，请求的是GPT4，返回内容里会明确用到的模型，是GPT4无误的
->![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/424248/image-preview)
+> 执行的返回结果
 
 
 # 6帮助文档
@@ -195,9 +194,13 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 支持应用：理论上，所有自定义API地址的GPT应用都受支持。以下是一些推荐应用。
 
 > 不同的客户端需要填写不同的BASE_URL, 请尝试如下地址，如不知怎么用，请看下面教程：
+> 
 > https://api.baicaigpt.com
+> 
 > https://api.baicaigpt.com/v1
+> 
 > https://api.baicaigpt.com/v1/chat/completions
+> 
 
 ## 推荐应用列表
 ### ChatGPT.好友插件
