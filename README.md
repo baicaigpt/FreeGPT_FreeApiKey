@@ -6,7 +6,7 @@
 
 国内动态加速 | 稳定可靠 | 多冗余负载技术 | 绝无封号风险 | 直连无需代理 | 人工在线客服
 
-文档全[接口文档](https://doc.baicaigpt.com/api-146134060) | 价格低[官方价格7折](#3支持模型配额及价格) | 免费用 [试用白菜GPT](https://doc.baicaigpt.com/doc-3675805) | 小额充 [5元起充](https://doc.baicaigpt.com/doc-3708694) | 很稳定[API服务可用性](https://status.baicaigpt.com/status/api)
+文档全[接口文档](https://baicaigpt.apifox.cn/api-146134060) | 价格低[官方价格7折](#3支持模型配额及价格) | 免费用 [试用白菜GPT](https://baicaigpt.apifox.cn/doc-3675805) | 小额充 [5元起充](https://baicaigpt.apifox.cn/doc-3708694) | 很稳定[API服务可用性](https://status.baicaigpt.com/status/api)
 
 </div>
 
@@ -37,7 +37,7 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/48ea0e5f-1a3f-4
 
 https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-41d9-985b-65b2562062bd
 
-## 🌟 欢迎使用白菜GPT！🌟 详细产品介绍，请查阅[帮助文档](https://doc.baicaigpt.com/)
+## 🌟 欢迎使用白菜GPT！🌟 详细产品介绍，请查阅[帮助文档](https://baicaigpt.apifox.cn/)
 # 1简介
 > 白菜GPT旨在帮助国内GPT应用学习相关从业者，提供便捷、低成本、长期稳定的GPT中转服务，降低各位学习工作成本，提高OpenAI应用效率，无需科学上网，国内畅享AI。
 > 
@@ -45,24 +45,24 @@ https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/0af1bc68-2c1f-4
 > 
 > ![image](https://github.com/baicaigpt/FreeGPT_FreeApiKey/assets/160614217/5d6aa4d0-8900-45d1-862a-c7740b69a7cc)
 
-> 浏览更多[帮助文档](https://doc.baicaigpt.com/)
+> 浏览更多[帮助文档](https://baicaigpt.apifox.cn/)
 > 
 # 2产品服务
 ## 白菜GPT以会员服务的形式，提供免费及付费两种会员产品
 >白菜GPT致力于为您提供稳定、高效且免费的OpenAI API转发服务，让您畅享智能对话的乐趣！😊
 
-我们提供的产品是基于OpenAI的转发URL和转发API，不同于OpenAI官方直接使用的API密钥。您需要配合我们推荐的[ChatGPT三方客户端](https://doc.baicaigpt.com/doc-3708760)或[OpenAI官方库开发](https://doc.baicaigpt.com/doc-3711097)使用。请放心，我们的服务与OpenAI官方API一致，同时我们完全尊重您的隐私[（隐私条款）](https://doc.baicaigpt.com/doc-3711273)，绝不会对您的请求及返回内容进行任何存储和处理。
+我们提供的产品是基于OpenAI的转发URL和转发API，不同于OpenAI官方直接使用的API密钥。您需要配合我们推荐的[ChatGPT三方客户端](https://baicaigpt.apifox.cn/doc-3708760)或[OpenAI官方库开发](https://baicaigpt.apifox.cn/doc-3711097)使用。请放心，我们的服务与OpenAI官方API一致，同时我们完全尊重您的隐私[（隐私条款）](https://baicaigpt.apifox.cn/doc-3711273)，绝不会对您的请求及返回内容进行任何存储和处理。
 
-在使用前，我们建议您详细阅读我们的[基础教程](https://doc.baicaigpt.com/doc-3675109)，如果您对白菜GPT的产品和服务仍有疑问，请勿急于选择付费会员。同时，一旦您开始使用我们的服务，即表示您已同意我们的[免责声明](https://doc.baicaigpt.com/doc-3707761)。祝您使用愉快，尽情享受智能对话的乐趣！🚀
+在使用前，我们建议您详细阅读我们的[基础教程](https://baicaigpt.apifox.cn/doc-3675109)，如果您对白菜GPT的产品和服务仍有疑问，请勿急于选择付费会员。同时，一旦您开始使用我们的服务，即表示您已同意我们的[免责声明](https://baicaigpt.apifox.cn/doc-3707761)。祝您使用愉快，尽情享受智能对话的乐趣！🚀
 
 
 `OpenAI转发URL，API_BASE: https://api.baicaigpt.com/v1    替换官方域名api.openai.com`
 
 `OpenAI转发KEY，API_KEY: baicai-******    替换官方KEY sk-******`
 
-转发KEY的价格为OpenAI官方价格的7-8折，白菜GPT致力于不断增加[支持模型种类提升配额及降低价格](https://doc.baicaigpt.com/doc-3675731)，致力于打造国内低价GPT使用最佳实践，目前支持包括GPT4在内的绝大部分OpenAI大语言模型的接口调用。提供更灵活、可定制、低价的OpenAI接口转发服务。
+转发KEY的价格为OpenAI官方价格的7-8折，白菜GPT致力于不断增加[支持模型种类提升配额及降低价格](https://baicaigpt.apifox.cn/doc-3707761/doc-3675731)，致力于打造国内低价GPT使用最佳实践，目前支持包括GPT4在内的绝大部分OpenAI大语言模型的接口调用。提供更灵活、可定制、低价的OpenAI接口转发服务。
 
-白菜GPT免费API_KEY获取方法👉点击官网 [https://baicaigpt.com](https://baicaigpt.com) (拼音助记：白菜GPT) 免费注册会员即可获取白菜GPT的免费API_KEY，[支持微信支付，充值后自行升级为付费会员服务](https://doc.baicaigpt.com/doc-3708694)
+白菜GPT免费API_KEY获取方法👉点击官网 [https://baicaigpt.com](https://baicaigpt.com) (拼音助记：白菜GPT) 免费注册会员即可获取白菜GPT的免费API_KEY，[支持微信支付，充值后自行升级为付费会员服务](https://baicaigpt.apifox.cn/doc-3707761/doc-3708694)
 >
 > 更多服务详情，请浏览[白菜GPT官网](https://shop.baicaigpt.com/)
 
@@ -110,25 +110,25 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 | 返回码 | 说明 |
 | --- | --- |
 | -1 | 原因：系统繁忙，我们的服务器流量过载或其他内部异常。<br>解决方案：稍等片刻后重试您的请求，如果问题仍然存在，请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40001 | 原因：请求的API_KEY不正确。<br>解决方案：请开发者认真比对获取到的API_KEY的正确性，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
-| 41001 | 原因：缺少API_KEY参数<br>解决方案：请开发者认真检查Header参数包含Authorization，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
-| 40038 | 原因：Authorization参数格式不正确<br>解决方案：请开发者认真检查Header的Authorization参数格式为Bearer baicai-xxxxxxxx，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer)  |
-| 40039 | 原因：请求参数不能为空<br>解决方案：请检查是否正常发送请求消息，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) ，如问题仍然存在，请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40243 | 原因：API_KEY已被冻结<br>解决方案：请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)申请解冻后再次调用。 |
+| 40001 | 原因：请求的API_KEY不正确。<br>解决方案：请开发者认真比对获取到的API_KEY的正确性，示例代码请参阅[开发教程文档](https://baicaigpt.apifox.cn/doc-3711097)  |
+| 41001 | 原因：缺少API_KEY参数<br>解决方案：请开发者认真检查Header参数包含Authorization，示例代码请参阅[开发教程文档](https://baicaigpt.apifox.cn/help)  |
+| 40038 | 原因：Authorization参数格式不正确<br>解决方案：请开发者认真检查Header的Authorization参数格式为Bearer baicai-xxxxxxxx，示例代码请参阅[开发教程文档](https://baicaigpt.apifox.cn/help)  |
+| 40039 | 原因：请求参数不能为空<br>解决方案：请检查是否正常发送请求消息，示例代码请参阅[开发教程文档](https://baicaigpt.apifox.cn/help) ，如问题仍然存在，[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40243 | 原因：API_KEY已被冻结<br>解决方案：请[联系客服](https://shop.baicaigpt.com/#/support)申请解冻后再次调用。 |
 | 45011 | 原因：API 调用太频繁<br>解决方案：请稍候再试 |
-| 48001 | 原因：请求模型暂未支持<br>解决方案：可在[所支持模型](https://doc.baicaigpt.com/doc-3675731)中查看已支持模型，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 48001 | 原因：请求模型暂未支持<br>解决方案：可在[所支持模型](https://baicaigpt.apifox.cn/doc-3675731)中查看已支持模型，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
 | 48002 | 原因：请求模型未知，除Models接口外，其他接口请求参数均需填写model字段<br>解决方案：请检查请求体内容是否遗漏model参数，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) 。 |
-| 48004 | 原因：API接口暂未支持，请确保请求API地址不要重复添加v1<br>解决方案：白菜GPT已开放接口参见API接口文档，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) ，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。|
+| 48004 | 原因：API接口暂未支持，请确保请求API地址不要重复添加v1<br>解决方案：白菜GPT已开放接口参见API接口文档，示例代码请参阅[开发教程文档](https://baicaigpt.com/category/tutorial/developer) ，如有个性化需求请[联系客服](https://shop.baicaigpt.com/#/support)。|
 | 48005 | 原因：免费会员不支持流式请求(内测期间支持)<br>解决方案：请完成充值，升级为付费会员后继续重新请求。 |
-| 40020 | 原因：免费会员gpt3.5请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
-| 40021 | 原因：免费会员gpt4请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南。 |
-| 40022 | 原因：付费会员gpt3.5请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40023 | 原因：付费会员gpt4请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：调整您的请求速率，可在[帮助中心](https://doc.baicaigpt.com/doc-3675692)中查看速率限制指南，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40031 | 原因：免费会员gpt3.5请求已达到的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：请[升级为付费会员](https://doc.baicaigpt.com/doc-3708694)后重试，详情请[参阅文档](https://doc.baicaigpt.com/doc-3675731)。
-| 40032 | 原因：免费会员gpt4请求已达到的[Tokens限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：请[升级为付费会员](https://doc.baicaigpt.com/doc-3708694)后重试，详情请[参阅文档](https://doc.baicaigpt.com/doc-3675731)。 |
-| 40040 | 原因：付费会员 dall-e-2请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：降低您的请求速率，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40041 | 原因：付费会员 dall-e-3请求已达到的[速率限制](https://doc.baicaigpt.com/doc-3675731)<br>解决方案：降低您的请求速率，如有个性化需求请[提工单](https://shop.baicaigpt.com/#/ticket)或[联系客服](https://shop.baicaigpt.com/#/support)。 |
-| 40050 | 原因：免费会员不支持该模型请求<br>解决方案：请[升级为付费会员](https://doc.baicaigpt.com/doc-3708694)后重试，具体模型清单请[参阅文档](https://doc.baicaigpt.com/doc-3675731)。 |
+| 40020 | 原因：免费会员gpt3.5请求已达到的[速率限制](https://baicaigpt.apifox.cn/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://baicaigpt.apifox.cn/doc-3675692)中查看速率限制指南。 |
+| 40021 | 原因：免费会员gpt4请求已达到的[速率限制](https://baicaigpt.apifox.cn/doc-3675731)<br>解决方案：调整您的请求速率，或付费充值，自动升级为付费版，可在[帮助中心](https://baicaigpt.apifox.cn/doc-3675692)中查看速率限制指南。 |
+| 40022 | 原因：付费会员gpt3.5请求已达到的[速率限制](https://baicaigpt.apifox.cn/doc-3675731)<br>解决方案：调整您的请求速率，可在[帮助中心](https://baicaigpt.apifox.cn/doc-3675692)中查看速率限制指南，如有个性化需求请[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40023 | 原因：付费会员gpt4请求已达到的[速率限制](https://baicaigpt.apifox.cn/doc-3675731)<br>解决方案：调整您的请求速率，可在[帮助中心](https://baicaigpt.apifox.cn/doc-3675692)中查看速率限制指南，如有个性化需求请[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40031 | 原因：免费会员gpt3.5请求已达到的[Tokens限制](https://baicaigpt.apifox.cn/doc-3675731)<br>解决方案：请[升级为付费会员](https://baicaigpt.apifox.cn/doc-3708694)后重试，详情请[参阅文档](https://baicaigpt.apifox.cn/doc-3675731)。
+| 40032 | 原因：免费会员gpt4请求已达到的[Tokens限制](https://baicaigpt.apifox.cn/doc-3675731)<br>解决方案：请[升级为付费会员](https://baicaigpt.apifox.cn/doc-3708694)后重试，详情请[参阅文档](https://baicaigpt.apifox.cn/doc-3675731)。 |
+| 40040 | 原因：付费会员 dall-e-2请求已达到的[速率限制](https://baicaigpt.apifox.cn/doc-3675731)<br>解决方案：降低您的请求速率，如有个性化需求请[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40041 | 原因：付费会员 dall-e-3请求已达到的[速率限制](https://baicaigpt.apifox.cn/doc-3675731)<br>解决方案：降低您的请求速率，如有个性化需求请[联系客服](https://shop.baicaigpt.com/#/support)。 |
+| 40050 | 原因：免费会员不支持该模型请求<br>解决方案：请[升级为付费会员](https://baicaigpt.apifox.cn/doc-3708694)后重试，具体模型清单请[参阅文档](https://baicaigpt.apifox.cn/doc-3675731)。 |
 | 40060 | 原因：余额不足<br>解决方案：检查余额并完成充值 |
 
 
@@ -144,8 +144,7 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
  > 白菜GPT余额和使用记录查询可访问 [白菜GPT消费明细]( https://shop.baicaigpt.com/#/wallet/expenseLog)
 
 ## 白菜GPT是否真实支持GPT4
-> 白菜GPT创立初心是便于开发人员学习并了解最新AI能力范围，作者自己用的同时，也顺便帮助更多开发伙伴了解GPT4的能力上线，属于半公益产品，所以请放心，采用的是真实的OpenAI GPT4的API接口，如有开发基础，请参阅下图或自己验证
-> ![image.png](https://api.apifox.com/api/v1/projects/3963161/resources/424248/image-preview)
+> 白菜GPT创立初心是便于开发人员学习并了解最新AI能力范围，作者自己用的同时，也顺便帮助更多开发伙伴了解GPT4的能力上限，属于半公益产品，所以请放心，采用的是真实的OpenAI GPT4的API接口，如有开发基础，请自行验证
 
 ## GPT4为什么这么贵
 > OpenAI ChatGPT API是收费的，不同模型（如GPT-3.5、GPT-4.0等）的收费标准不一样，到GPT-4 API价格几乎是GPT-3.5 API价格的20倍，以下是OpenAI官方的API价格。(官方可能会变更收费标准，具体以实际为准)
@@ -189,7 +188,7 @@ DALLE.2|| 256x256|0.16/image|❌|✅|30 RPH |
 # 6帮助文档
 > To check out the documentation, visit
 > 
-> - [简体中文](https://doc.baicaigpt.com/)
+> - [简体中文](https://baicaigpt.apifox.cn/)
 
 # 7应用支持与API使用说明
 
