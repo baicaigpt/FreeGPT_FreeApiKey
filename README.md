@@ -1,4 +1,4 @@
-# 温馨提示： 此版本老用户可继续使用，新用户暂停注册，如需使用，请移步[免注册版白菜GPT](https://github.com/baicaigpt/OPENAI_FAST_APIKEY)，1￥买1$Token，官方价格1/7，模型价格同官方一致，1元起售，价格更便宜，体验更便捷。
+# 温馨提示： 此版本暂停维护，老用户可继续使用，新用户暂停注册，如需使用，请移步[免注册版白菜GPT](https://github.com/baicaigpt/OPENAI_FAST_APIKEY)，1￥买1$Token，官方价格1/7，模型价格同官方一致，1元起售，价格更便宜，体验更便捷。
 
 <div align="center">
 
